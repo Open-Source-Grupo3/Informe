@@ -16,7 +16,7 @@
  Relación de Integrantes:
  
  - Chamorro Acero, Salvador Edward - U201914367
- - 
+ - Mendoza Solis, Javier Kenyi - U201824550
  - 
  - 
  - 
