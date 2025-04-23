@@ -10,15 +10,15 @@
  
  Nombre del curso: Desarrollo de Aplicaciones Open-Source  
   Sección: 
-  Nombre del Profesor:
-  Nombre del StartUp:
-  Nombre del Producto:   
+  Nombre del Profesor: Hugo Allan Mori Paiva
+  Nombre del StartUp: SabroSaic
+  Nombre del Producto: PlatoX
  Relación de Integrantes:
  
  - Chamorro Acero, Salvador Edward - U201914367
  - Mendoza Solis, Javier Kenyi - U201824550
  - Calixto Iriarte, David Alejandro - U20201B441
- - 
+ - Carhuancote Domniguez, Gonzalo Alonso - U202210720
  - 
  
  ## Historial de Versiones
