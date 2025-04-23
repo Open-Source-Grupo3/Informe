@@ -17,7 +17,7 @@
  
  - Chamorro Acero, Salvador Edward - U201914367
  - Mendoza Solis, Javier Kenyi - U201824550
- - 
+ - Calixto Iriarte, David Alejandro - U20201B441
  - 
  - 
  
