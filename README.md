@@ -192,3 +192,569 @@
      <td colspan="2"></td>
   </tr>
    </table>
+
+
+
+# Capítulo III: Requirements Specification
+
+## 3.1. To-Be Scenario Mapping
+
+## 3.2. User Stories
+
+<table>
+  <thead>
+    <tr>
+      <th>Epic / Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Criterios de Aceptación</th>
+      <th>Relacionado con (Epic ID)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>EP01</td>
+      <td>Publicaciones</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>EP02</td>
+      <td>Comunicación</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>EP03</td>
+      <td>Funciones de usuario</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>EP04</td>
+      <td>Cuenta</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>EP05</td>
+      <td>Visualización de apartados</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>EP06</td>
+      <td>Pagos</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>US01</td>
+      <td>Publicar comida del día</td>
+      <td>COMO cocinero usuario de la plataforma, QUIERO publicar la comida del día PARA mostrar lo que se tiene a la venta.</td>
+      <td>
+        GIVEN el cocinero está en la plataforma<br>
+        WHEN el cocinero selecciona el botón de publicar comida del día AND completa el formulario correctamente AND hace clic en el botón publicar<br>
+        THEN se publica correctamente toda la información.
+      </td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>US02</td>
+      <td>Editar comida del día</td>
+      <td>COMO cocinero usuario de la plataforma, QUIERO tener la opción de editar la comida del día PARA corregir la información.</td>
+      <td>
+        GIVEN el cocinero está en la plataforma<br>
+        WHEN el cocinero selecciona el botón de editar comida del día AND realiza los cambios necesario AND hace clic en el botón guardar<br>
+        THEN se actualiza correctamente toda la información.
+      </td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Ver historial de pedidos</td>
+      <td>COMO cocinero usuario de la plataforma, QUIERO ver el historial de todos mis pedidos PARA mantenerme informado de cada uno de ellos.</td>
+      <td>
+        GIVEN el cocinero está en la plataforma<br>
+        WHEN el cocinero selecciona el botón de historial de pedidos<br>
+        THEN se trasladará a la sección de historial de pedidos.
+      </td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>US04</td>
+      <td>Crear publicaciones</td>
+      <td>COMO cocinero usuario de la plataforma, QUIERO realizar publicaciones PARA mantener informados a todos mis clientes.</td>
+      <td>
+        GIVEN el cocinero está en la plataforma<br>
+        WHEN el cocinero selecciona el botón de realizar publicación AND completa el formulario correctamente AND hace clic en el botón publicar<br>
+        THEN se publica correctamente toda la información.
+      </td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>US05</td>
+      <td>Editar publicaciones</td>
+      <td>COMO cocinero usuario de la plataforma, QUIERO editar publicaciones PARA mantener la información actualizada.</td>
+      <td>
+        GIVEN el cocinero está en la plataforma<br>
+        WHEN el cocinero selecciona el botón de editar publicación AND realiza los cambios necesario AND hace clic en el botón guardar<br>
+        THEN se actualiza correctamente toda la información.
+      </td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>US06</td>
+      <td>Eliminar publicaciones</td>
+      <td>COMO cocinero usuario de la plataforma, QUIERO eliminar publicaciones PARA mantener control total sobre mis publicaciones.</td>
+      <td>
+        GIVEN el cocinero está en la plataforma<br>
+        WHEN el cocinero selecciona el botón de eliminar publicación AND acepa la advertencia<br>
+        THEN se elimina correctamente la publicación.
+      </td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>US07</td>
+      <td>Búsqueda de restaurantes</td>
+      <td>COMO Cliente usuario de la plataforma, QUIERO realizar búsquedas de restaurantes locales PARA encontrar lugares de venta de comidas.</td>
+      <td>
+        GIVEN el cliente está en la plataforma<br>
+        WHEN el cliente seleccione el botón de búsqueda AND llena los datos de su búsqueda<br>
+        THEN se mostrarán diferentes opciones.
+      </td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>US08</td>
+      <td>Realizar pedido</td>
+      <td>COMO cliente usuario de la plataforma, QUIERO generar pedidos PARA tener orden en lo que deseo comprar.</td>
+      <td>
+        GIVEN el cliente está en la plataforma<br>
+        WHEN el cliente seleccione el botón de realizar pedido AND llena el formulario<br>
+        THEN se iniciará el pedido de la comida del día.
+      </td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>US09</td>
+      <td>Pagar pedido</td>
+      <td>COMO cliente usuario de la plataforma, QUIERO pagar los pedidos generados PARA obtener los productos.</td>
+      <td>
+        GIVEN el cliente está en la pantalla de pedido<br>
+        WHEN el cliente seleccione el botón de pagar pedido AND elige un medio de pago AND completa el pago satisfactoriamente<br>
+        THEN el pedido pasará a estar pagado.
+      </td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>US10</td>
+      <td>Visualizar comidas disponibles</td>
+      <td>COMO cliente usuario de la plataforma, QUIERO ver las comidas disponibles del día generados PARA obtener los productos.</td>
+      <td>
+        GIVEN el cliente está en el perfil del local seleccionado<br>
+        WHEN el cliente seleccione el botón de mostrar comidas disponibles<br>
+        THEN se mostrarán todas las comidas disponibles.
+      </td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>US11</td>
+      <td>Ver publicaciones de los lugares que sigo</td>
+      <td>COMO cliente usuario de la plataforma, QUIERO ver las publicaciones de los lugares que sigo PARA estar al tanto de sus novedades.</td>
+      <td>
+        GIVEN el cliente está en la plataforma<br>
+        WHEN el cliente seleccione el botón de inicio<br>
+        THEN se mostrarán todas las publicaciones de los lugares que sigue.
+     </td>
+     <td>5</td>
+    </tr>
+    <tr>
+     <td>US12</td>
+     <td>Seguir local de comida</td>
+     <td>COMO cliente usuario de la plataforma, QUIERO seguir a los locales de comida PARA estar al tanto de todas sus publicaciones.</td>
+     <td>
+       GIVEN el cliente está en el perfil de un local de comida<br>
+       WHEN el cliente seleccione el botón de seguir<br>
+       THEN el cliente se volverá seguidor del perfil.
+     </td>
+     <td>3</td>
+   </tr>
+   <tr>
+     <td>US13</td>
+     <td>Crear cuenta</td>
+     <td>COMO Cliente/Cocinero usuario de la plataforma, QUIERO crear una cuenta PARA poder acceder a más funcionalidades de la plataforma.</td>
+     <td>
+       GIVEN el Cliente/Cocinero está en la pantalla de inicio de sesión<br>
+       WHEN el Cliente/Cocinero selecciona la opción crear cuenta AND llena el formulario correctamente<br>
+       THEN se crea la cuenta satisfactoriamente.
+     </td>
+     <td>4</td>
+   </tr>
+   <tr>
+     <td>US14</td>
+     <td>Borrar cuenta</td>
+     <td>COMO Cliente/Cocinero usuario de la plataforma, QUIERO borrar mi cuenta PARA proteger la integridad de mi persona.</td>
+     <td>
+       GIVEN el Cliente/Cocinero está en las configuraciones del perfil<br>
+       WHEN el Cliente/Cocinero selecciona la opción borrar cuenta AND le da clic en aceptar a la advertencia<br>
+       THEN se elimina la cuenta satisfactoriamente.
+     </td>
+     <td>4</td>
+   </tr>
+   <tr>
+     <td>US15</td>
+     <td>Iniciar sesión</td>
+     <td>COMO cocinero/cliente usuario de la plataforma, QUIERO iniciar sesión PARA tener acceso a mi perfil.</td>
+     <td>
+       GIVEN el Cliente/Cocinero está en la pantalla de inicio de sesión<br>
+       WHEN el Cliente/Cocinero selecciona la opción iniciar sesión AND llena el formulario correctamente<br>
+       THEN se inicia sesión satisfactoriamente.
+     </td>
+     <td>4</td>
+   </tr>
+   <tr>
+     <td>US16</td>
+     <td>Cerrar sesión</td>
+     <td>COMO cocinero/cliente usuario de la plataforma, QUIERO cerrar sesión PARA mantener a salvo los datos de mi cuenta.</td>
+     <td>
+       GIVEN el Cliente/Cocinero está en la sección de configuración<br>
+       WHEN el Cliente/Cocinero selecciona la opción cerrar sesión AND le da clic en aceptar a la advertencia<br>
+       THEN se cierra la sesión satisfactoriamente.
+     </td>
+     <td>4</td>
+   </tr>
+   <tr>
+     <td>US17</td>
+     <td>Actualizar información de perfil</td>
+     <td>COMO cocinero/cliente usuario de la plataforma, QUIERO actualizar mi información personal y de contacto PARA mantener mis datos actualizados.</td>
+     <td>
+       GIVEN el Cliente/Cocinero está en la vista de su perfil<br>
+       WHEN el Cliente/Cocinero activa la edición de perfil, actualiza el formulario correctamente AND elige guardar cambios<br>
+       THEN se ve reflejado el perfil actualizado.
+     </td>
+     <td>4</td>
+   </tr>
+   <tr>
+     <td>US18</td>
+     <td>Sistema de notificaciones</td>
+     <td>COMO Cliente/Cocinero usuario de la plataforma, QUIERO que haya un sistema de notificaciones, PARA mantenerme informado en todo momento.</td>
+     <td>
+       GIVEN el Cliente/Cocinero está en la plataforma<br>
+       WHEN hay alguna novedad acerca del pedido<br>
+       THEN el Cliente/Cocinero recibe una notificación.
+     </td>
+     <td>3</td>
+   </tr>
+   <tr>
+     <td>US19</td>
+     <td>Historial de notificaciones</td>
+     <td>COMO Cliente/Cocinero usuario de la plataforma, QUIERO ver todas las notificaciones PARA tener ordenada la información.</td>
+     <td>
+       GIVEN el Cliente/Cocinero está en la plataforma<br>
+       WHEN el Cliente/Cocinero selecciona el botón de ver historial de notificaciones<br>
+       THEN se mostrará el historial completo de notificaciones.
+     </td>
+     <td>3</td>
+   </tr>
+   <tr>
+     <td>US20</td>
+     <td>Sistema de chat</td>
+     <td>COMO Cliente/Cocinero usuario de la plataforma, QUIERO que haya un chat PARA mantener la comunicación durante.</td>
+     <td>
+       GIVEN el Cliente/Cocinero está en la plataforma<br>
+       WHEN selecciona la opción de chat<br>
+       THEN el Cliente/Cocinero se irá a la pantalla de chat.
+     </td>
+     <td>2</td>
+   </tr>
+  </tbody>
+</table>
+
+
+
+## 3.3. Impact Mapping
+
+En esta sección, se plantearon metas de negocio utilizando los criterios SMART para elaborar el Impact Mapping en base a nuestras User Personas y User Stories.
+
+Segmento 1:
+
+![Segmento1](/assets/img/Segemento1.png)
+
+Se puede ver que las funciones relacionadas al inventario pueden ser clave en lograr que tengamos más de 500 artesanos en la plataform0a en 6 meses.
+
+Segmento 2:
+
+![Segmento2](/assets/img/Segemento2.png)
+
+Se puede ver que las funciones relacionadas al monitoreo de pedidos serían clave en lograr que la comunicación entre distribuidores y artesanos mejore en un 40%.
+
+## 3.4. Product Backlog
+
+<table>
+    <tr>
+        <th>Orden</th>
+        <th>User Story Id</th>
+        <th>Título</th>
+        <th>Descripción</th>
+        <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>US01</td>
+        <td>Sección About Us</td>
+        <td>Yo, como distribuidor visitante del Landing Page, quiero una sección About Us para informarme sobre la empresa y sus detalles.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>US25</td>
+        <td>Visualización de los servicios disponibles</td>
+        <td>Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero una sección “Services” para informarme sobre los servicios que ofrece la plataforma.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>US24</td>
+        <td>Visualización de lista de tipos de suscripción</td>
+        <td>Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>US23</td>
+        <td>Visualización de la sección Contact Us</td>
+        <td>Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero una sección “Contact us” para solicitar información acerca de la plataforma</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>US22</td>
+        <td>Visualización de los desarrolladores</td>
+        <td>Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero una sección “Creadores” para informarme sobre los desarrolladores de la plataforma.</td>
+        <td>1</td>
+    </tr>
+     <tr>
+        <td>6</td>
+        <td>US02</td>
+        <td>Selector de Idioma</td>
+        <td>Yo, como distribuidor visitante del Landing Page, quiero un selector de idioma para leer el contenido en mi idioma de preferencia.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>US27</td>
+        <td>Visualización de Pedidos.</td>
+        <td>Como Distribuidor, quiero un sistema de listado de Pedidos para organizar los Pedidos que tengo asignados con Artesano.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>US05</td>
+        <td>Actualizar Progreso</td>
+        <td>Yo, como usuario artesano de la plataforma, quiero actualizar los detalles del pedido, para mantener informado al distribuidor.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>US11</td>
+        <td>Visualización de la sección de inventarios</td>
+        <td>Como artesano usuario de la plataforma, quiero ver mis inventarios de trabajo para estar al tanto de lo que se tiene disponible.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>US12</td>
+        <td>Crear inventario</td>
+        <td>Como artesano usuario de la plataforma, quiero agregar inventarios para mantener un orden en mis diferentes proyectos.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>US17</td>
+        <td>Visualización de la sección de foro</td>
+        <td>Como artesano usuario de la plataforma, quiero una sección de foros para estar en contacto con otros artesanos.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>US18</td>
+        <td>Crear publicación</td>
+        <td>Como artesano usuario de la plataforma, quiero crear publicaciones en el foro para compartir con otros usuarios.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>US06</td>
+        <td>Visualización de perfil de usuario propio.</td>
+        <td>Como Artesano/Distribuidor usuario de la plataforma, quiero visualizar mi perfil para verificar que mi información es correcta.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>US26</td>
+        <td>Manejo de Distribución de Pedidos</td>
+        <td>Como Distribuidor, quiero un sistema de Distribución para manejar los pedidos disponibles.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>US28</td>
+        <td>Generación de Pedidos</td>
+        <td>Como Artesano, quiero generar un Pedido desde la plataforma para organizar pedidos no relacionados a Distribuidores.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>US04</td>
+        <td>Asignar Pedidos</td>
+        <td>Yo, como usuario distribuidor de la plataforma, quiero asignar pedidos a los artesanos, para enviarlos a los compradores una vez hechos.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>US14</td>
+        <td>Agregar materiales en inventario</td>
+        <td>Como artesano usuario de la plataforma, quiero agregar materiales en mis inventarios para llevar un control detallado de los materiales disponibles.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>US03</td>
+        <td>Solicitud de Trabajo</td>
+        <td>Yo, como artesano usuario de la plataforma, quiero mandar solicitudes a los distribuidores, para obtener pedidos de su parte.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>US07</td>
+        <td>Visualización de otros perfiles de usuario</td>
+        <td>Como Artesano/Distribuidor usuario de la plataforma, quiero visualizar otros perfiles de usuario para ver su información e interactuar.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>US15</td>
+        <td>Visualizar detalles de un material</td>
+        <td>Como artesano usuario de la plataforma, quiero visualizar toda la información de un material para llevar un control detallado de tal material.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>US13</td>
+        <td>Eliminar inventario</td>
+        <td>Como artesano usuario de la plataforma, quiero eliminar inventarios para no tener información innecesaria</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>US16</td>
+        <td>Búsqueda de Materiales en Inventario</td>
+        <td>Como artesano usuario de la plataforma, quiero buscar materiales específicos dentro de mi inventario para localizarlos rápidamente y utilizarlos en mi proceso de producción.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>US21</td>
+        <td>Comentar publicación</td>
+        <td>Como artesano usuario de la plataforma, quiero comentar en las publicaciones del foro para contactarme con personas del mismo interés.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td>US20</td>
+        <td>Eliminar publicación.</td>
+        <td>Como artesano usuario de la plataforma, quiero eliminar mis publicaciones en el foro para mantener un orden en mi perfil.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>US19</td>
+        <td>Editar publicación	</td>
+        <td>Como artesano usuario de la plataforma, quiero editar mis publicaciones en el foro para tener control total en estas.	</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>US08</td>
+        <td>Actualización de información de perfil.</td>
+        <td>Como Artesano/Distribuidor usuario de la plataforma, quiero poder actualizar mi información personal y de contacto para mantener mis datos actualizados.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>27</td>
+        <td>US29</td>
+        <td>Añadir artesanos mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir artesanos a la API, para conectarlos a las funciones de mi aplicación Web.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>28</td>
+        <td>US30</td>
+        <td>Añadir distribuidores mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir distribuidores a la API, para conectarlos a las funciones de mi aplicación Web.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>US31</td>
+        <td>Añadir pedidos mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir pedidos a la API, para conectarlos a las funciones de mi aplicación Web.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>US32</td>
+        <td>Añadir inventarios mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir inventarios a la API, para conectarlos a las funciones de mi aplicación Web.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>US33</td>
+        <td>Añadir materiales mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir materiales a la API, para conectarlos a las funciones de inventario de mi aplicación Web.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>US34</td>
+        <td>Añadir publicaciones mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir publicaciones a la API, para conectarlos a las funciones de foro de mi aplicación Web.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>US35</td>
+        <td>Añadir comentarios mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir comentarios a la API, para conectarlos a las funciones de publicaciones de mi aplicación Web.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>34</td>
+        <td>US36</td>
+        <td>Integrar Frontend con Backend</td>
+        <td>Como Desarrollador, quiero integrar las funciones de mi aplicación Web con mi API para que la funcionalidad esté completa.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>US10</td>
+        <td>Cerrar sesión</td>
+        <td>Como Artesano/Distribuidor usuario de la plataforma, quiero cerrar sesión para proteger la integridad de mi cuenta.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>US09</td>
+        <td>Borrar cuenta</td>
+        <td>Como Artesano/Distribuidor usuario de la plataforma, quiero borrar mi cuenta para proteger la integridad de mi persona.</td>
+        <td>1</td>
+    </tr>
+</table>
