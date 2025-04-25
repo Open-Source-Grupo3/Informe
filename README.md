@@ -19,7 +19,7 @@
  - Mendoza Solis, Javier Kenyi - U201824550
  - Calixto Iriarte, David Alejandro - U20201B441
  - Carhuancote Domniguez, Gonzalo Alonso - U202210720
- - 
+ - Calle Huayanca, Adrian Alonso - U202011657
  
  ## Historial de Versiones
  
@@ -192,7 +192,7 @@
      <td colspan="2"></td>
   </tr>
    </table>
-
+# Capítulo I:  Introducción
 # Startup Profile
 
 ## 1.1. Startup Profile
@@ -256,291 +256,173 @@ Teniendo en cuenta el análisis competitivo, salió a relevancia que hay una car
 - **Consumidores locales**: Personas interesadas en experiencias gastronómicas auténticas, de cercanía, que valoran lo artesanal y personalizado.
 - **Turistas gastronómicos**: Visitantes interesados en explorar la cultura culinaria local más allá de los lugares convencionales.
 
-
 # Capítulo III: Requirements Specification
+# 3.1 To-Be Scenario Mapping
 
-## 3.1. To-Be Scenario Mapping
+| **Fase**                              | **Buscar restaurantes en el mapa** | **Filtrar por tipo de comida o ubicación** | **Ver perfiles de restaurantes** | **Tomar decisión y visitar o pedir** |
+|---------------------------------------|-----------------------------------|-------------------------------------------|-----------------------------------|--------------------------------------|
+| **Doing**                             | El usuario abre Plato X y ve un mapa con locales cercanos. | Aplica filtros como “comida criolla”, “vegano” o “cerca de mí”. | Revisa menús, fotos, horarios, y calificaciones. | Decide ir al restaurante o hacer un pedido desde la app. |
+| **Thinking**                           | “Con Plato X encuentro fácilmente opciones cerca sin tener que caminar ni buscar en redes.” | “Los filtros me ayudan a encontrar justo lo que quiero comer hoy.” | “Me gusta poder ver el menú completo antes de decidir.” | “Puedo ir directamente al lugar o pedirlo desde mi casa.” |
+| **Feeling**                            | Se siente curioso y optimista por las opciones disponibles. | Se siente empoderado porque puede personalizar su búsqueda. | Se siente confiado y con mayor control al ver toda la información. | Se siente satisfecho y listo para disfrutar su comida. |
 
-## 3.2. User Stories
+# 3.2 User Stories
 
-<table>
-  <thead>
-    <tr>
-      <th>Epic / Story ID</th>
-      <th>Título</th>
-      <th>Descripción</th>
-      <th>Criterios de Aceptación</th>
-      <th>Relacionado con (Epic ID)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>EP01</td>
-      <td>Publicaciones</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>EP02</td>
-      <td>Comunicación</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>EP03</td>
-      <td>Funciones de usuario</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>EP04</td>
-      <td>Cuenta</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>EP05</td>
-      <td>Visualización de apartados</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>EP06</td>
-      <td>Pagos</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>US01</td>
-      <td>Publicar comida del día</td>
-      <td>COMO cocinero usuario de la plataforma, QUIERO publicar la comida del día PARA mostrar lo que se tiene a la venta.</td>
-      <td>
-        GIVEN el cocinero está en la plataforma<br>
-        WHEN el cocinero selecciona el botón de publicar comida del día AND completa el formulario correctamente AND hace clic en el botón publicar<br>
-        THEN se publica correctamente toda la información.
-      </td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>US02</td>
-      <td>Editar comida del día</td>
-      <td>COMO cocinero usuario de la plataforma, QUIERO tener la opción de editar la comida del día PARA corregir la información.</td>
-      <td>
-        GIVEN el cocinero está en la plataforma<br>
-        WHEN el cocinero selecciona el botón de editar comida del día AND realiza los cambios necesario AND hace clic en el botón guardar<br>
-        THEN se actualiza correctamente toda la información.
-      </td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>US03</td>
-      <td>Ver historial de pedidos</td>
-      <td>COMO cocinero usuario de la plataforma, QUIERO ver el historial de todos mis pedidos PARA mantenerme informado de cada uno de ellos.</td>
-      <td>
-        GIVEN el cocinero está en la plataforma<br>
-        WHEN el cocinero selecciona el botón de historial de pedidos<br>
-        THEN se trasladará a la sección de historial de pedidos.
-      </td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>US04</td>
-      <td>Crear publicaciones</td>
-      <td>COMO cocinero usuario de la plataforma, QUIERO realizar publicaciones PARA mantener informados a todos mis clientes.</td>
-      <td>
-        GIVEN el cocinero está en la plataforma<br>
-        WHEN el cocinero selecciona el botón de realizar publicación AND completa el formulario correctamente AND hace clic en el botón publicar<br>
-        THEN se publica correctamente toda la información.
-      </td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>US05</td>
-      <td>Editar publicaciones</td>
-      <td>COMO cocinero usuario de la plataforma, QUIERO editar publicaciones PARA mantener la información actualizada.</td>
-      <td>
-        GIVEN el cocinero está en la plataforma<br>
-        WHEN el cocinero selecciona el botón de editar publicación AND realiza los cambios necesario AND hace clic en el botón guardar<br>
-        THEN se actualiza correctamente toda la información.
-      </td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>US06</td>
-      <td>Eliminar publicaciones</td>
-      <td>COMO cocinero usuario de la plataforma, QUIERO eliminar publicaciones PARA mantener control total sobre mis publicaciones.</td>
-      <td>
-        GIVEN el cocinero está en la plataforma<br>
-        WHEN el cocinero selecciona el botón de eliminar publicación AND acepa la advertencia<br>
-        THEN se elimina correctamente la publicación.
-      </td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>US07</td>
-      <td>Búsqueda de restaurantes</td>
-      <td>COMO Cliente usuario de la plataforma, QUIERO realizar búsquedas de restaurantes locales PARA encontrar lugares de venta de comidas.</td>
-      <td>
-        GIVEN el cliente está en la plataforma<br>
-        WHEN el cliente seleccione el botón de búsqueda AND llena los datos de su búsqueda<br>
-        THEN se mostrarán diferentes opciones.
-      </td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>US08</td>
-      <td>Realizar pedido</td>
-      <td>COMO cliente usuario de la plataforma, QUIERO generar pedidos PARA tener orden en lo que deseo comprar.</td>
-      <td>
-        GIVEN el cliente está en la plataforma<br>
-        WHEN el cliente seleccione el botón de realizar pedido AND llena el formulario<br>
-        THEN se iniciará el pedido de la comida del día.
-      </td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>US09</td>
-      <td>Pagar pedido</td>
-      <td>COMO cliente usuario de la plataforma, QUIERO pagar los pedidos generados PARA obtener los productos.</td>
-      <td>
-        GIVEN el cliente está en la pantalla de pedido<br>
-        WHEN el cliente seleccione el botón de pagar pedido AND elige un medio de pago AND completa el pago satisfactoriamente<br>
-        THEN el pedido pasará a estar pagado.
-      </td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>US10</td>
-      <td>Visualizar comidas disponibles</td>
-      <td>COMO cliente usuario de la plataforma, QUIERO ver las comidas disponibles del día generados PARA obtener los productos.</td>
-      <td>
-        GIVEN el cliente está en el perfil del local seleccionado<br>
-        WHEN el cliente seleccione el botón de mostrar comidas disponibles<br>
-        THEN se mostrarán todas las comidas disponibles.
-      </td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>US11</td>
-      <td>Ver publicaciones de los lugares que sigo</td>
-      <td>COMO cliente usuario de la plataforma, QUIERO ver las publicaciones de los lugares que sigo PARA estar al tanto de sus novedades.</td>
-      <td>
-        GIVEN el cliente está en la plataforma<br>
-        WHEN el cliente seleccione el botón de inicio<br>
-        THEN se mostrarán todas las publicaciones de los lugares que sigue.
-     </td>
-     <td>5</td>
-    </tr>
-    <tr>
-     <td>US12</td>
-     <td>Seguir local de comida</td>
-     <td>COMO cliente usuario de la plataforma, QUIERO seguir a los locales de comida PARA estar al tanto de todas sus publicaciones.</td>
-     <td>
-       GIVEN el cliente está en el perfil de un local de comida<br>
-       WHEN el cliente seleccione el botón de seguir<br>
-       THEN el cliente se volverá seguidor del perfil.
-     </td>
-     <td>3</td>
-   </tr>
-   <tr>
-     <td>US13</td>
-     <td>Crear cuenta</td>
-     <td>COMO Cliente/Cocinero usuario de la plataforma, QUIERO crear una cuenta PARA poder acceder a más funcionalidades de la plataforma.</td>
-     <td>
-       GIVEN el Cliente/Cocinero está en la pantalla de inicio de sesión<br>
-       WHEN el Cliente/Cocinero selecciona la opción crear cuenta AND llena el formulario correctamente<br>
-       THEN se crea la cuenta satisfactoriamente.
-     </td>
-     <td>4</td>
-   </tr>
-   <tr>
-     <td>US14</td>
-     <td>Borrar cuenta</td>
-     <td>COMO Cliente/Cocinero usuario de la plataforma, QUIERO borrar mi cuenta PARA proteger la integridad de mi persona.</td>
-     <td>
-       GIVEN el Cliente/Cocinero está en las configuraciones del perfil<br>
-       WHEN el Cliente/Cocinero selecciona la opción borrar cuenta AND le da clic en aceptar a la advertencia<br>
-       THEN se elimina la cuenta satisfactoriamente.
-     </td>
-     <td>4</td>
-   </tr>
-   <tr>
-     <td>US15</td>
-     <td>Iniciar sesión</td>
-     <td>COMO cocinero/cliente usuario de la plataforma, QUIERO iniciar sesión PARA tener acceso a mi perfil.</td>
-     <td>
-       GIVEN el Cliente/Cocinero está en la pantalla de inicio de sesión<br>
-       WHEN el Cliente/Cocinero selecciona la opción iniciar sesión AND llena el formulario correctamente<br>
-       THEN se inicia sesión satisfactoriamente.
-     </td>
-     <td>4</td>
-   </tr>
-   <tr>
-     <td>US16</td>
-     <td>Cerrar sesión</td>
-     <td>COMO cocinero/cliente usuario de la plataforma, QUIERO cerrar sesión PARA mantener a salvo los datos de mi cuenta.</td>
-     <td>
-       GIVEN el Cliente/Cocinero está en la sección de configuración<br>
-       WHEN el Cliente/Cocinero selecciona la opción cerrar sesión AND le da clic en aceptar a la advertencia<br>
-       THEN se cierra la sesión satisfactoriamente.
-     </td>
-     <td>4</td>
-   </tr>
-   <tr>
-     <td>US17</td>
-     <td>Actualizar información de perfil</td>
-     <td>COMO cocinero/cliente usuario de la plataforma, QUIERO actualizar mi información personal y de contacto PARA mantener mis datos actualizados.</td>
-     <td>
-       GIVEN el Cliente/Cocinero está en la vista de su perfil<br>
-       WHEN el Cliente/Cocinero activa la edición de perfil, actualiza el formulario correctamente AND elige guardar cambios<br>
-       THEN se ve reflejado el perfil actualizado.
-     </td>
-     <td>4</td>
-   </tr>
-   <tr>
-     <td>US18</td>
-     <td>Sistema de notificaciones</td>
-     <td>COMO Cliente/Cocinero usuario de la plataforma, QUIERO que haya un sistema de notificaciones, PARA mantenerme informado en todo momento.</td>
-     <td>
-       GIVEN el Cliente/Cocinero está en la plataforma<br>
-       WHEN hay alguna novedad acerca del pedido<br>
-       THEN el Cliente/Cocinero recibe una notificación.
-     </td>
-     <td>3</td>
-   </tr>
-   <tr>
-     <td>US19</td>
-     <td>Historial de notificaciones</td>
-     <td>COMO Cliente/Cocinero usuario de la plataforma, QUIERO ver todas las notificaciones PARA tener ordenada la información.</td>
-     <td>
-       GIVEN el Cliente/Cocinero está en la plataforma<br>
-       WHEN el Cliente/Cocinero selecciona el botón de ver historial de notificaciones<br>
-       THEN se mostrará el historial completo de notificaciones.
-     </td>
-     <td>3</td>
-   </tr>
-   <tr>
-     <td>US20</td>
-     <td>Sistema de chat</td>
-     <td>COMO Cliente/Cocinero usuario de la plataforma, QUIERO que haya un chat PARA mantener la comunicación durante.</td>
-     <td>
-       GIVEN el Cliente/Cocinero está en la plataforma<br>
-       WHEN selecciona la opción de chat<br>
-       THEN el Cliente/Cocinero se irá a la pantalla de chat.
-     </td>
-     <td>2</td>
-   </tr>
-  </tbody>
-</table>
+## Epic: Gestión del menú y publicaciones
 
-## 3.3. Impact Mapping
-## 3.4. Product Backlog
+### ID-User Story: US-01
+**Título User Story**: Publicar comida del día  
+**Story Points**: 1  
+**Sprint**:  
+**Descripción**:  
+COMO Cocinero usuario de la plataforma, QUIERO publicar la comida del día PARA mostrar lo que se tiene a la venta.  
+**Escenario**:  
+**GIVEN** el Cocinero está en la plataforma,  
+**WHEN** selecciona el botón de publicar comida del día, completa el formulario y hace clic en publicar,  
+**THEN** se publica correctamente la información.
+
+---
+
+### ID-User Story: US-02
+**Título User Story**: Editar comida del día  
+**Story Points**: 1  
+**Sprint**:  
+**Descripción**:  
+COMO Cocinero usuario de la plataforma, QUIERO editar la comida del día PARA corregir la información.  
+**Escenario**:  
+**GIVEN** el Cocinero está en la plataforma,  
+**WHEN** selecciona el botón de editar comida del día, realiza los cambios y hace clic en guardar,  
+**THEN** se actualiza la información correctamente.
+
+---
+
+### ID-User Story: US-03
+**Título User Story**: Ver historial de pedidos  
+**Story Points**: 5  
+**Sprint**:  
+**Descripción**:  
+COMO Cocinero usuario de la plataforma, QUIERO ver el historial de todos mis pedidos PARA mantenerme informado de cada uno de ellos.  
+**Escenario**:  
+**GIVEN** el Cocinero está en la plataforma,  
+**WHEN** selecciona el botón de historial de pedidos,  
+**THEN** se traslada a la sección correspondiente.
+
+---
+
+### ID-User Story: US-04
+**Título User Story**: Crear publicaciones  
+**Story Points**: 1  
+**Sprint**:  
+**Descripción**:  
+COMO Cocinero usuario de la plataforma, QUIERO realizar publicaciones PARA mantener informados a mis clientes.  
+**Escenario**:  
+**GIVEN** el Cocinero está en la plataforma,  
+**WHEN** selecciona el botón de realizar publicación, completa el formulario y hace clic en publicar,  
+**THEN** se publica correctamente la información.
+
+---
+
+### ID-User Story: US-05
+**Título User Story**: Editar publicaciones  
+**Story Points**: 1  
+**Sprint**:  
+**Descripción**:  
+COMO Cocinero usuario de la plataforma, QUIERO editar publicaciones PARA mantener la información actualizada.  
+**Escenario**:  
+**GIVEN** el Cocinero está en la plataforma,  
+**WHEN** selecciona el botón de editar publicación, realiza los cambios necesarios y hace clic en guardar,  
+**THEN** se actualiza correctamente la información.
+
+---
+
+### ID-User Story: US-06
+**Título User Story**: Eliminar publicaciones  
+**Story Points**: 1  
+**Sprint**:  
+**Descripción**:  
+COMO Cocinero usuario de la plataforma, QUIERO eliminar publicaciones PARA mantener control total sobre mis publicaciones.  
+**Escenario**:  
+**GIVEN** el Cocinero está en la plataforma,  
+**WHEN** selecciona el botón de eliminar publicación y acepta la advertencia,  
+**THEN** se elimina correctamente la publicación.
+
+---
+
+## Epic: Pedidos y pagos
+
+### ID-User Story: US-07
+**Título User Story**: Búsqueda de restaurantes  
+**Story Points**: 3  
+**Sprint**:  
+**Descripción**:  
+COMO Cliente usuario de la plataforma, QUIERO realizar búsquedas de restaurantes locales PARA encontrar lugares de venta de comidas.  
+**Escenario**:  
+**GIVEN** el Cliente está en la plataforma,  
+**WHEN** selecciona el botón de búsqueda Y llena los datos de búsqueda,  
+**THEN** se mostrarán diferentes opciones.
+
+---
+
+### ID-User Story: US-08
+**Título User Story**: Realizar pedido  
+**Story Points**: 1  
+**Sprint**:  
+**Descripción**:  
+COMO Cliente usuario de la plataforma, QUIERO generar pedidos PARA tener orden en lo que deseo comprar.  
+**Escenario**:  
+**GIVEN** el Cliente está en la plataforma,  
+**WHEN** selecciona el botón de realizar pedido Y llena el formulario,  
+**THEN** se inicia el pedido de la comida del día.
+
+---
+
+### ID-User Story: US-09
+**Título User Story**: Eliminar publicaciones  
+**Story Points**: 6  
+**Sprint**:  
+**Descripción**:  
+COMO Cliente usuario de la plataforma, QUIERO pagar los pedidos generados PARA obtener los productos.  
+**Escenario**:  
+**GIVEN** el Cliente está en la pantalla de pedido,  
+**WHEN** selecciona el botón de pagar pedido, elige un medio de pago y completa el pago satisfactoriamente,  
+**THEN** el pedido pasa a estar pagado.
+
+---
+
+# 3.3 Impact Mapping
+
+| **Actor (Quién)**               | **Impacto esperado (Cómo)**                                 | **Funcionalidad requerida (Qué)**             | **User Story ID**    |
+|----------------------------------|------------------------------------------------------------|-----------------------------------------------|----------------------|
+| **Cocinero / Restaurante**       | Quiere registrarse en la plataforma fácilmente            | Crear cuenta                                 | US-13                |
+|                                  | Quiere publicar la comida del día sin complicaciones      | Publicar comida del día                       | US-01                |
+|                                  | Quiere editar o eliminar publicaciones previas            | Editar/Eliminar publicaciones                 | US-02, US-05, US-06  |
+|                                  | Desea recibir pedidos fácilmente desde la app             | Recibir pedidos                               | US-08                |
+|                                  | Quiere recibir pagos en línea                             | Procesar pagos                                | US-09                |
+
+# 3.4 Product Backlog
+
+| **N.º orden** | **User Story ID** | **Título**                          | **Descripción**                                                    | **Prioridad** | **Story Points** |
+|---------------|-------------------|-------------------------------------|--------------------------------------------------------------------|---------------|------------------|
+| 1             | US-01             | Publicar comida del día            | Como cocinero, quiero publicar la comida del día para mostrar lo que tengo a la venta. | Alta          | 1                |
+| 2             | US-02             | Editar comida del día              | Como cocinero, quiero editar la comida del día para corregir la información. | Alta          | 1                |
+| 3             | US-03             | Ver historial de pedidos           | Como cocinero, quiero ver el historial de todos mis pedidos para mantenerme informado. | Media         | 5                |
+| 4             | US-04             | Crear publicaciones                | Como cocinero, quiero realizar publicaciones para mantener informados a mis clientes. | Alta          | 1                |
+| 5             | US-05             | Editar publicaciones               | Como cocinero, quiero editar publicaciones para mantener la información actualizada. | Alta          | 1                |
+| 6             | US-06             | Eliminar publicaciones             | Como cocinero, quiero eliminar publicaciones para tener control total sobre ellas. | Alta          | 1                |
+| 7             | US-07             | Búsqueda de restaurantes           | Como cliente, quiero buscar restaurantes locales para encontrar opciones de comida. | Alta          | 3                |
+| 8             | US-08             | Realizar pedido                    | Como cliente, quiero realizar pedidos para organizar lo que deseo comprar. | Alta          | 1                |
+| 9             | US-09             | Pagar pedido                       | Como cliente, quiero pagar mis pedidos para recibir los productos. | Alta          | 6                |
+| 10            | US-10             | Visualizar comidas disponibles     | Como cliente, quiero ver las comidas disponibles del día para decidir qué ordenar. | Alta          | 5                |
+| 11            | US-11             | Ver publicaciones de lugares seguidos | Como cliente, quiero ver publicaciones de lugares que sigo para estar al tanto de sus novedades. | Media         | 5                |
+| 12            | US-12             | Seguir local de comida             | Como cliente, quiero seguir locales de comida para mantenerme actualizado con sus publicaciones. | Media         | 3                |
+| 13            | US-13             | Crear cuenta                       | Como cliente o cocinero, quiero crear una cuenta para acceder a más funcionalidades. | Alta          | 4                |
+| 14            | US-14             | Borrar cuenta                      | Como cliente o cocinero, quiero borrar mi cuenta para proteger mi información personal. | Media         | 4                |
+| 15            | US-15             | Iniciar sesión                     | Como cliente o cocinero, quiero iniciar sesión para acceder a mi perfil. | Alta          | 4                |
+| 16            | US-16             | Cerrar sesión                      | Como cliente o cocinero, quiero cerrar sesión para proteger mi cuenta. | Alta          | 4                |
+| 17            | US-17             | Actualizar información de perfil   | Como cliente o cocinero, quiero actualizar mis datos para mantener mi perfil actualizado. | Media         | 4                |
+| 18            | US-18             | Sistema de notificaciones          | Como cliente o cocinero, quiero recibir notificaciones para mantenerme informado. | Alta          | 3                |
+| 19            | US-19             | Historial de notificaciones        | Como cliente o cocinero, quiero ver el historial de notificaciones para mantenerme organizado. | Media         | 3                |
+| 20            | US-20             | Sistema de chat                    | Como cliente o cocinero, quiero usar un chat para mantener la comunicación con la otra parte. | Media         | 2                |
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
  
