@@ -193,6 +193,68 @@
   </tr>
    </table>
 
+# Startup Profile
+
+## 1.1. Startup Profile
+
+### 1.1.1. Descripción de la Startup
+Nuestra startup estará enfocada en una plataforma digital que conecta restaurantes locales con los consumidores interesados en experiencias gastronómicas diferentes y cercanas. Buscamos potenciar la visibilidad de los pequeños negocios de comida, permitiendo que los usuarios descubran restaurantes, puestos de comida, accediendo a menús del día, publicaciones y promociones personalizadas. Nuestra startup funciona como un puente entre oferta y demanda gastronómica local, enfatizando en la experiencia, la autenticidad y la convivencia.
+
+### 1.1.2. Perfiles de integrantes del equipo
+Nuestro equipo de trabajo está compuesto por perfiles multidisciplinarios, que incluye estudiantes de Ingeniería de Software, quienes nos consideramos capacitados para realizar este trabajo de forma correcta.
+
+## 1.2. Solution Profile
+
+### 1.2.1. Antecedentes y problemática
+Teniendo en cuenta el análisis competitivo, salió a relevancia que hay una carencia en plataformas enfocadas específicamente en la visibilidad de restaurantes pequeños y/o cocineros independientes. Plataformas como TripAdvisor o Google Maps privilegian a grandes establecimientos y zonas turísticas, mientras que Rappi se enfoca en delivery sin tener en cuenta el performance de la gastronomía local. Además, las entrevistas con usuarios revelaron una necesidad por descubrir lugares auténticos según intereses personales y su ubicación.
+
+- **Who (¿Quién?)**: Cocineros locales, propietarios de pequeños restaurantes, consumidores urbanos y turistas gastronómicos.
+- **What (¿Qué?)**: Dificultad para promocionar comidas y descubrir opciones locales en plataformas tradicionales.
+- **Where (¿Dónde?)**: Zonas urbanas y suburbanas con alta densidad gastronómica local.
+- **When (¿Cuándo?)**: Acentuado tras la pandemia con la digitalización forzada de pequeños negocios.
+- **Why (¿Por qué?)**: Las plataformas actuales favorecen grandes marcas y no contemplan lo local y artesanal.
+- **How (¿Cómo?)**: Uso intensivo de redes sociales sin resultados claros y sin canales de descubrimiento efectivos.
+- **How Much (¿Cuánto?)**: Más del 60% de locales pequeños no están representados digitalmente con efectividad.
+
+### 1.2.2. Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
+- **Domain**: Mercado gastronómico digital centrado en cocineros y restaurantes locales.
+- **Customer Segments**: Cocineros independientes, pequeños restaurantes, consumidores urbanos.
+- **Pain Points**: Falta de visibilidad, baja diferenciación, barreras para descubrir locales auténticos.
+- **Gap**: Desconexión entre oferta gastronómica local y usuarios.
+- **Visión / Strategy**: Plataforma accesible que conecte cocineros locales con consumidores mediante tecnología.
+- **Initial Segment**: Cocineros urbanos con baja digitalización y consumidores de 25-45 años interesados en lo local.
+- Los cocineros locales no tienen una plataforma accesible y efectiva para visibilizar sus comidas del día o promociones especiales.
+- Los consumidores tienen dificultades para descubrir restaurantes locales auténticos adaptados a sus gustos o cercanía.
+
+#### 1.2.2.2. Lean UX Assumptions
+- Los cocineros desean publicar su menú diario fácilmente.
+- Los consumidores están abiertos a probar comida local visible digitalmente.
+- La personalización de la experiencia aumentará el uso.
+- Disposición a pagar por visibilidad premium.
+- Confianza en recomendaciones comunitarias.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+- **Hipótesis 1**: Publicaciones diarias aumentan visibilidad y visitas.
+- **Hipótesis 2**: Rutas temáticas mejoran descubrimiento e interacción.
+- **Hipótesis 3**: Notificaciones y seguimiento generan fidelización.
+- **Hipótesis 4**: Perfiles premium motivan pago por exposición.
+
+#### 1.2.2.4. Lean UX Canvas
+- **Usuarios**: Cocineros, pequeños restaurantes, consumidores y turistas gastronómicos.
+- **Necesidades**: Visibilidad digital, descubrimiento personalizado.
+- **Problemas**: Invisibilidad de pequeños locales gastronómicos.
+- **Solución**: App con menús, publicaciones, filtros y seguimiento.
+- **Beneficio**: Monetización vía premium y publicidad.
+- **Canales**: App móvil y presencia web.
+- **Métricas clave**: Publicaciones, conversión, retención.
+- **Ventaja competitiva**: Foco en lo local, curaduría personalizada, experiencias nuevas.
+
+## 1.3. Segmentos objetivo
+- **Cocineros independientes y restaurantes locales**: Aquellos que no cuentan con presencia digital o quieren ampliar su alcance sin depender de grandes plataformas.
+- **Consumidores locales**: Personas interesadas en experiencias gastronómicas auténticas, de cercanía, que valoran lo artesanal y personalizado.
+- **Turistas gastronómicos**: Visitantes interesados en explorar la cultura culinaria local más allá de los lugares convencionales.
 
 
 # Capítulo III: Requirements Specification
