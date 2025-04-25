@@ -192,9 +192,9 @@
      <td colspan="2"></td>
   </tr>
    </table>
-# Capítulo I:  Introducción
-# Startup Profile
 
+# Startup Profile
+# Capítulo I: Introduction
 ## 1.1. Startup Profile
 
 ### 1.1.1. Descripción de la Startup
