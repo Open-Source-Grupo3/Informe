@@ -530,6 +530,7 @@ COMO Cliente usuario de la plataforma, QUIERO pagar los pedidos generados PARA o
 **GIVEN** el Cliente está en la pantalla de pedido,  
 **WHEN** selecciona el botón de pagar pedido, elige un medio de pago y completa el pago satisfactoriamente,  
 **THEN** el pedido pasa a estar pagado.
+------------------------------------------
 
 ---
 
