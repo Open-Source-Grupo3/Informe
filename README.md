@@ -82,7 +82,8 @@
  
  
  **Entrega N°2: TP1**
- 
+  ![alt text](assets/img/insights1.png)
+   ![alt text](assets/img/insights2.png)
  
  **Entrega N°3: TB2**
  
