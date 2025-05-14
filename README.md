@@ -569,6 +569,166 @@ COMO Cliente usuario de la plataforma, QUIERO pagar los pedidos generados PARA o
 | 20            | US-20             | Sistema de chat                    | Como cliente o cocinero, quiero usar un chat para mantener la comunicación con la otra parte. | Media         | 2                |
 
 
+
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
+
+Este apartado muestra los estilos y herramientas utilizados para diseñar nuestra solución.
+
+### 4.1.1. General Style Guidelines
+
+#### Brand Overview
+
+En muchas ciudades, los pequeños restaurantes y cocineros locales tienen dificultades para destacar en plataformas dominadas por grandes marcas, lo que limita su alcance y crecimiento. Al mismo tiempo, los consumidores buscan experiencias gastronómicas auténticas y cercanas, pero carecen de herramientas para descubrirlas fácilmente.
+
+PlatoX es una plataforma digital que conecta a los usuarios con la oferta gastronómica local, permitiendo a negocios pequeños publicar menús, promociones y contenidos personalizados. A través de una experiencia basada en ubicación e intereses, PlatoX promueve la visibilidad de la cocina artesanal y fomenta la conexión entre comunidad y gastronomía.
+
+#### Brand Name
+
+El nombre de nuestra solución, PlatoX, surge de la unión de dos conceptos:
+
+* "Plato" representa la comida, la experiencia culinaria y la variedad de sabores que definen la gastronomía local.
+* La "X" simboliza lo desconocido, lo que está por descubrir: ese lugar único, ese platillo especial que aún no has probado. 
+
+Este nombre transmite el propósito central de la plataforma: ayudar a las personas a descubrir nuevos sabores, nuevos lugares y nuevas experiencias gastronómicas cercanas. 
+
+PlatoX es la guía para encontrar ese “plato sorpresa” que espera justo a la vuelta de la esquina.
+
+#### Logo
+
+![Logo de PlatoX](URL_DE_LA_IMAGEN_DEL_LOGO)
+
+*Nota: Reemplaza "URL_DE_LA_IMAGEN_DEL_LOGO" con la URL real de la imagen del logo.*
+
+#### Typography
+
+La tipografía en PlatoX está cuidadosamente seleccionada para reflejar el carácter cercano, auténtico y acogedor de nuestra marca. [cite: 11, 12]
+
+Hemos elegido fuentes que equilibran lo artesanal con lo digital, garantizando legibilidad en todos los dispositivos y manteniendo una estética cálida y humana. [cite: 12]
+
+La jerarquía tipográfica está dividida en cuatro niveles: headings (encabezados), body (texto general), buttons (botones) y links (enlaces), lo cual asegura una experiencia clara, intuitiva y coherente para el usuario. [cite: 13]
+
+![Ejemplo de Tipografía](URL_DE_LA_IMAGEN_DE_TIPOGRAFIA)
+
+*Nota: Reemplaza "URL_DE_LA_IMAGEN_DE_TIPOGRAFIA" con la URL real de la imagen del ejemplo de tipografía.*
+
+#### Colors
+
+![Paleta de Colores](URL_DE_LA_IMAGEN_DE_COLORES)
+
+*Nota: Reemplaza "URL_DE_LA_IMAGEN_DE_COLORES" con la URL real de la imagen de la paleta de colores.*
+
+### 4.1.2. Web Style Guidelines
+
+El sitio web que desarrollaremos será completamente adaptable a dispositivos móviles, garantizando una experiencia de usuario óptima en cualquier tamaño de pantalla. [cite: 14, 15]
+
+Se priorizará un diseño intuitivo y atractivo, que se ajuste adecuadamente a las distintas resoluciones que ofrecen los dispositivos actuales. [cite: 15]
+
+El diseño seguirá el patrón en forma de “Z”, comenzando por mostrar el logotipo en la parte superior izquierda al iniciar la navegación. [cite: 16]
+
+Desde allí, el usuario se dirigirá de forma natural hacia la derecha, donde se ubicarán las principales opciones de navegación. [cite: 17, 18, 19, 20]
+
+Luego, el desplazamiento continuará hacia abajo para explorar el contenido general, finalizando con un movimiento hacia la derecha en la parte inferior, donde encontrará información sobre nuestra startup y los canales de contacto. [cite: 18, 19, 20]
+
+Además, se empleará una paleta de colores que inspire calma, confianza y atractivo, fomentando el interés en utilizar la aplicación. [cite: 19, 20]
+
+Los espacios y efectos visuales se utilizarán estratégicamente para facilitar la comprensión del propósito tanto del sitio de inicio como de la aplicación web. [cite: 20]
+
+![Patrón de Diseño en Z](URL_DE_LA_IMAGEN_DEL_PATRON_Z)
+
+*Nota: Reemplaza "URL_DE_LA_IMAGEN_DEL_PATRON_Z" con la URL real de la imagen del patrón de diseño en Z.*
+
+## 4.2. Information Architecture
+
+En esta sección, el equipo expone las decisiones y fundamentos que sustentan la organización del contenido en las experiencias web y móvil de PlatoX, incluyendo tanto la Landing Page como la Aplicación Web. [cite: 21, 22, 23, 24, 25]
+
+Estas propuestas han sido concebidas para garantizar que los usuarios y visitantes se familiaricen rápidamente con las funcionalidades del producto, facilitando el acceso a la información que buscan de forma intuitiva y sin complicaciones. [cite: 22, 23, 24, 25]
+
+Las decisiones tomadas abarcan los sistemas de organización, etiquetado, navegación y búsqueda, con el objetivo de ofrecer una estructura clara, coherente y centrada en la experiencia del usuario. [cite: 23, 24, 25]
+
+### 4.2.1. Organization Systems
+
+Para estructurar la arquitectura de la información de PlatoX, se ha implementado un sistema de organización jerárquico tanto en la Landing Page como en la Aplicación Web. [cite: 24, 25]
+
+Esta estructura permite una navegación fluida e intuitiva, asegurando que los usuarios encuentren fácilmente la información y funcionalidades que requieren. [cite: 25]
+
+#### Landing Page
+
+La Landing Page de PlatoX ha sido diseñada con una organización jerárquica clara, permitiendo a los visitantes acceder rápidamente a los contenidos más relevantes y realizar acciones esenciales dentro de la plataforma:
+
+**Barra de Navegación Principal**: Ubicada en la parte superior del sitio, ofrece accesos directos a las secciones principales:
+
+* **Inicio (Home)**: Página de bienvenida que presenta una visión general de los servicios de PlatoX. [cite: 26, 27, 28, 29, 30, 31, 32]
+    * Incluye un banner principal con un mensaje destacado y botones de llamada a la acción para registrarse o iniciar sesión. [cite: 27, 28, 29, 30, 31, 32]
+* **Servicios (Services)**: Sección que detalla los servicios disponibles, organizados de forma que distintos perfiles de usuarios puedan identificar fácilmente cómo PlatoX puede satisfacer sus necesidades técnicas y de mantenimiento en el hogar. [cite: 28, 29, 30, 31, 32]
+* **Planes (Plans)**: Describe las distintas modalidades de servicio disponibles, junto con sus características y beneficios. [cite: 29, 30, 31, 32]
+    * Esta sección está diseñada para facilitar la comparación y toma de decisiones por parte del usuario. [cite: 30, 31, 32]
+* **Contáctanos (Contact Us)**: Incluye datos de contacto, un formulario para consultas y enlaces a redes sociales, facilitando la comunicación entre los usuarios y el equipo de PlatoX. [cite: 31, 32]
+* **Nosotros (About Us)**: Presenta la misión, visión y el equipo de trabajo detrás de PlatoX, promoviendo la confianza y transparencia en la relación con los usuarios. [cite: 32]
+
+* **Estructura de Contenido Jerárquica**:
+    * **Encabezados y Subencabezados**: El contenido de cada sección está organizado mediante títulos jerárquicos que permiten a los usuarios profundizar fácilmente en la información que les interesa, mejorando la comprensión y la navegación dentro del sitio. [cite: 33, 34, 35, 36, 37]
+    * **Botones de Llamada a la Acción (CTAs)**: Ubicados estratégicamente a lo largo del sitio para incentivar acciones clave como el registro, inicio de sesión o el contacto directo con el equipo de PlatoX, facilitando así la interacción con la plataforma. [cite: 34, 35, 36, 37]
+
+* **Footer**:
+    * El footer incluye accesos directos a secciones relevantes como la política de privacidad, términos y condiciones del servicio, información de contacto y enlaces a redes sociales. [cite: 35, 36, 37]
+    * Esta área complementa la navegación principal, permitiendo a los usuarios obtener más información sobre PlatoX de manera rápida y sencilla. [cite: 36, 37, 38, 39, 40, 41, 42, 43, 44]
+
+#### Aplicación Web
+
+La Aplicación Web de PlatoX ha sido diseñada para brindar una experiencia personalizada a dos perfiles principales de usuarios: Cocineros Independientes y Restaurantes Locales, y Consumidores (Locales y Turistas Gastronómicos). [cite: 37, 38, 39, 40, 41, 42, 43, 44]
+
+La estructura del contenido facilita que cada tipo de usuario navegue de forma eficiente según sus necesidades específicas. [cite: 38, 39, 40, 41, 42, 43, 44]
+
+* **Para Cocineros Independientes y Restaurantes Locales**:
+    * **Inicio (Home)**: Presenta un resumen de pedidos recientes, notificaciones relevantes y accesos directos a funciones clave como la gestión del menú y configuración del perfil. [cite: 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
+    * **Gestión de Menú (Menu Management)**: Permite crear, editar y organizar platos disponibles, incluyendo imágenes, descripciones, precios y disponibilidad por horarios. [cite: 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
+    * **Pedidos (Orders)**: Muestra los pedidos en curso, historial de ventas y permite actualizar el estado de cada orden (en preparación, listo, entregado). [cite: 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
+    * **Estadísticas (Analytics)**: Ofrece datos sobre desempeño, ingresos, platos más vendidos y comportamiento del cliente, ayudando a mejorar la oferta y optimizar la operación. [cite: 42, 43, 44, 45, 46, 47, 48, 49, 50]
+    * **Reseñas y Reputación (Reviews)**: Sección para visualizar la retroalimentación de los clientes, facilitando una mejora continua en el servicio y calidad. [cite: 43, 44, 45, 46, 47, 48, 49, 50]
+* **Para Consumidores (Locales y Turistas Gastronómicos)**:
+    * **Inicio (Home)**: Ofrece una vista general personalizada con recomendaciones, platos destacados y accesos rápidos a menús recientes o favoritos. [cite: 44, 45, 46, 47, 48, 49, 50]
+    * **Explorar Comida Local (Explore Food)**: Función de búsqueda que permite descubrir cocineros y restaurantes cercanos según ubicación, tipo de comida o calificaciones. [cite: 45, 46, 47, 48, 49, 50]
+    * **Favoritos (Favorites)**: Espacio para guardar y acceder rápidamente a cocineros o platos preferidos para futuros pedidos. [cite: 46, 47, 48, 49, 50]
+    * **Historial de Pedidos (Order History)**: Registro completo de pedidos anteriores, permitiendo volver a ordenar fácilmente platos favoritos o dar seguimiento a sus experiencias gastronómicas. [cite: 47, 48, 49, 50]
+
+* **Interacción y Flujo de Trabajo**:
+    * La interfaz de PlatoX está pensada para ser intuitiva y accesible. [cite: 48, 49, 50, 51, 52, 53, 54]
+    * Cada función está claramente identificada mediante texto e íconos, lo que permite a los usuarios tanto cocineros como consumidores realizar acciones con facilidad y en pocos pasos. [cite: 49, 50, 51, 52, 53, 54]
+    * El diseño visual está enfocado en guiar al usuario de forma clara y eficiente, asegurando una experiencia fluida en todo momento. [cite: 50, 51, 52, 53, 54]
+
+### 4.2.2. Labeling Systems
+
+En esta sección se describen los sistemas de etiquetado implementados en la Landing Page y la Aplicación Web de PlatoX. [cite: 51, 52, 53, 54]
+
+Estos sistemas han sido cuidadosamente diseñados para facilitar la navegación y optimizar la experiencia del usuario, asegurando que cada sección, botón y funcionalidad sea clara, comprensible y fácil de identificar. [cite: 52, 53, 54]
+
+#### Etiquetas de Encabezados (Headings)
+
+El uso de etiquetas intuitivas permite que tanto cocineros como consumidores encuentren rápidamente lo que necesitan, reduciendo la confusión y mejorando la interacción con la plataforma. [cite: 53, 54, 55, 56, 57, 58, 59, 60, 61, 62]
+
+La combinación de texto claro y representaciones visuales como los íconos refuerza la comprensión incluso para usuarios con poca experiencia digital. [cite: 54, 55, 56, 57, 58, 59, 60, 61, 62]
+
+* **Inicio / Home**: Este encabezado aparece en la página principal y da la bienvenida a los usuarios, ofreciendo una visión general de lo que PlatoX ofrece. [cite: 55, 56, 57, 58, 59, 60, 61, 62]
+    * Incluye un banner destacado con la misión del proyecto y botones de acceso directo para registrarse o iniciar sesión en la plataforma. [cite: 56, 57, 58, 59, 60, 61, 62]
+* **Servicios / Services**: Sección dedicada a presentar las principales funcionalidades de PlatoX, como la exploración de ofertas gastronómicas locales, la gestión de menús por parte de los cocineros, el sistema de pedidos y las opciones de interacción entre usuarios. [cite: 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67]
+* **Planes y Precios / Plans & Pricing**: Encabezado que describe las diferentes modalidades disponibles para cocineros y restaurantes, incluyendo los beneficios de cada plan, costos, y herramientas incluidas en cada nivel de suscripción. [cite: 58, 59, 60, 61, 62, 63, 64, 65, 66, 67]
+* **Contáctanos / Contact Us**: Área que brinda los medios para establecer comunicación con el equipo de PlatoX, ya sea a través de un formulario de contacto, correo electrónico o enlaces a redes sociales. [cite: 59, 60, 61, 62, 63, 64, 65, 66, 67]
+    * Está diseñada para facilitar consultas, soporte o propuestas de colaboración. [cite: 60, 61, 62, 63, 64, 65, 66, 67]
+* **Sobre Nosotros / About Us**: Sección donde se comparte información sobre la visión, misión y valores de PlatoX, así como detalles sobre el equipo humano detrás del desarrollo de la plataforma. [cite: 61, 62, 63, 64, 65, 66, 67]
+    * Busca generar confianza y conexión con los usuarios. [cite: 62, 63, 64, 65, 66, 67]
+
+#### Etiquetas Textuales (Text Labels)
+
+Las etiquetas textuales en PlatoX se utilizan para identificar claramente categorías, funciones y acciones dentro de la plataforma. [cite: 62, 63, 64, 65, 66, 67]
+
+Estas etiquetas permiten a los usuarios tanto cocineros como comensales navegar con facilidad y ejecutar tareas de forma eficiente:
+
+* **Explorar Comida / Explore Food**: Ubicada en la barra de búsqueda, permite a los usuarios ingresar una ubicación o tipo de comida para descubrir opciones gastronómicas disponibles cerca de ellos.
+
+
+
 # Capítulo V: Product Implementation, Validation & Deployment
  
  ## 5.1. Software Configuration Management
