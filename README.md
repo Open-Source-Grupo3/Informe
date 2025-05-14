@@ -76,7 +76,7 @@
  ## Project Report Collaboration Insights
  A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
  
- **URL del Repositorio del Informe:** 
+ **URL del Repositorio del Informe:** https://github.com/Open-Source-Grupo3/Informe
  
  **Entrega N°1: TB1**
  
@@ -183,7 +183,7 @@
   </tr>
   <tr>
      <td colspan="2">Comunica oralmente con efectividad a diferentes rangos de audiencia.</th>
-     <td colspan="10"><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b> </b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
+     <td colspan="10"><b>Gonzalo Alonso Carhuancote Dominguez</b> <br>TB1: Elaboracion de la Landing Page Inicial y desarrollo del Capitulo 3, además de una entrevista para trabajo<br><br>TP:<br>Implementacion de Mejopras y finalizacion de la Landing Page y del capitulo 3. Elaboracion del Language-Switcher, Home, profile, footer y login component del FrontEnd<br>TB2:<br><br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b> </b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
      <td colspan="2"></td>
   </tr>
   <tr>
