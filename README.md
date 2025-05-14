@@ -184,8 +184,8 @@
   </tr>
   <tr>
      <td colspan="2">Comunica oralmente con efectividad a diferentes rangos de audiencia.</th>
-     <td colspan="10"><b>Gonzalo Alonso Carhuancote Dominguez</b> <br>TB1: Elaboracion de la Landing Page Inicial y desarrollo del Capitulo 3, además de una entrevista para trabajo<br><br>TP:<br>Implementacion de Mejopras y finalizacion de la Landing Page y del capitulo 3. Elaboracion del Language-Switcher, Home, profile, footer y login component del FrontEnd<br>TB2:<br><br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b> </b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
-     <td colspan="2"></td>
+     <td colspan="10"><b>Gonzalo Alonso Carhuancote Dominguez</b> <br>TB1: Elaboracion de la Landing Page Inicial y desarrollo del Capitulo 3, además de una entrevista para trabajo<br><br>TP:<br>Implementacion de Mejoras y finalizacion de la Landing Page y del capitulo 3. Elaboracion del Language-Switcher, Home, profile, footer y login component del FrontEnd<br>TB2:<br><br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b> </b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
+     <td colspan="2">En esta etapa del proyecto, hemos definido y documentado las historias de usuario que guiarán la creación de nuestra aplicación web. Identificamos las principales funcionalidades necesarias para cocineros y clientes, como publicar menús, hacer pedidos o gestionar perfiles. Aplicamos buenas prácticas con formato Gherkin y estructura clara, asegurando trazabilidad y validación de requisitos. Este trabajo nos permitió comprender mejor las necesidades del usuario y cómo traducirlas en funciones clave. Con ello, sentamos una base sólida para el diseño y desarrollo de la app PlatoX.</td>
   </tr>
   <tr>
      <td colspan="2">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
@@ -588,7 +588,7 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
  
  De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y podrá ser visible para cualquier usuario que tenga el enlace.
  
- Enlace del Landing Page: 
+ Enlace del Landing Page: https://open-source-grupo3.github.io/LandingPage/
  
  ## 5.2. Landing Page, Services & Applications Implementation
  
@@ -695,3 +695,4 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
  
  # Anexos
  Vídeo TB1: 
+ Video TP: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210720_upc_edu_pe/EU97lwLEpf9IkeemPa3NlqMBaOL83e3xXXEUVpVv1B01Bw?e=YKjhpI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
