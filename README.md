@@ -189,7 +189,7 @@
   </tr>
   <tr>
      <td colspan="2">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
-     <td colspan="10"><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b> </b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
+     <td colspan="10"><b>Javier Kenyi Mendoza Solis</b> <br>TB1: Elaboracion del Product Design <br><br>TP: Implementacion de Mejoras en el Style Guidelines, Labeling Systems y Searching Systems <br><br>TB2:<br><br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b> </b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
      <td colspan="2"></td>
   </tr>
    </table>
