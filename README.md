@@ -210,11 +210,13 @@ Nuestra startup estará enfocada en una plataforma digital que conecta restauran
      <th colspan="5">Acerca de</td>
      <th colspan="2">Codigo</td>
    <tr>
-     <td colspan="3">![alt text](assets/img/Foto Javier Kenyi Mendoza Solis.jpg)</td>
+     <td colspan="3">
+      <img src="assets/img/Foto Javier Kenyi Mendoza Solis.jpg" alt="Foto Javier" style="width:100px; height:auto;">
+     </td>
      <td colspan="3">Mendoza Solis Javier Kenyi</td>
      <td colspan="10">Ingenieria de Software</td>
      <td colspan="5">Soy estudiante de Ingeniería de Software con una fuerte vocación por el aprendizaje constante y la formación autodidacta. Me caracterizo por una actitud proactiva y una excelente capacidad para integrarme y contribuir en equipos de trabajo colaborativos</td>
-    <th colspan="2">u201824550</td>
+     <th colspan="2">u201824550</td>
    </tr>
    <tr>
      <td colspan="3"></td>
