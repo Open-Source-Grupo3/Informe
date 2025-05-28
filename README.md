@@ -197,7 +197,9 @@
 # Startup Profile
 # Capítulo I: Introduction
 ## 1.1. Startup Profile
-
+PlatoX es una solución digital pensada para revitalizar la gastronomía local, conectando directamente a restaurantes independientes, puestos de comida y cocinas emergentes con consumidores interesados en experiencias culinarias auténticas y cercanas.
+La plataforma permite a los negocios gastronómicos publicar menús diarios, promociones, horarios y contenido personalizado para atraer clientes, todo desde una interfaz amigable. Por su parte, los usuarios pueden descubrir nuevas propuestas culinarias cerca de su ubicación, filtrar por tipo de comida o precio, y disfrutar de recomendaciones basadas en sus gustos e historial.
+PlatoX no solo aumenta la visibilidad de los pequeños negocios de comida, sino que también promueve la economía local y la convivencia a través de la comida. A largo plazo, se proyecta como una comunidad digital de referencia para los amantes de la gastronomía urbana auténtica, ofreciendo experiencias únicas y apoyando a quienes hacen de la cocina su pasión y sustento.
 ### 1.1.1. Descripción de la Startup
 Nuestra startup estará enfocada en una plataforma digital que conecta restaurantes locales con los consumidores interesados en experiencias gastronómicas diferentes y cercanas. Buscamos potenciar la visibilidad de los pequeños negocios de comida, permitiendo que los usuarios descubran restaurantes, puestos de comida, accediendo a menús del día, publicaciones y promociones personalizadas. Nuestra startup funciona como un puente entre oferta y demanda gastronómica local, enfatizando en la experiencia, la autenticidad y la convivencia.
 
