@@ -202,7 +202,55 @@
 Nuestra startup estará enfocada en una plataforma digital que conecta restaurantes locales con los consumidores interesados en experiencias gastronómicas diferentes y cercanas. Buscamos potenciar la visibilidad de los pequeños negocios de comida, permitiendo que los usuarios descubran restaurantes, puestos de comida, accediendo a menús del día, publicaciones y promociones personalizadas. Nuestra startup funciona como un puente entre oferta y demanda gastronómica local, enfatizando en la experiencia, la autenticidad y la convivencia.
 
 ### 1.1.2. Perfiles de integrantes del equipo
-Nuestro equipo de trabajo está compuesto por perfiles multidisciplinarios, que incluye estudiantes de Ingeniería de Software, quienes nos consideramos capacitados para realizar este trabajo de forma correcta.
+<table>
+ <tr>
+     <th colspan="3">Foto</th>
+     <th colspan="3">Apellido y Nombre</th>
+     <th colspan="10">Carrera</td>
+     <th colspan="5">Acerca de</td>
+   <tr>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="10"></td>
+     <td colspan="5"></td>
+   </tr>
+   <tr>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="10"></td>
+     <td colspan="5"></td>
+   </tr>
+   <tr>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="10"></td>
+     <td colspan="5"></td>
+   </tr>
+   <tr>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="10"></td>
+     <td colspan="5"></td>
+   </tr>
+   <tr>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="10"></td>
+     <td colspan="5"></td>
+   </tr>
+  <tr>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="10"></td>
+     <td colspan="5"></td>
+   </tr>
+  <tr>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="10"></td>
+     <td colspan="5"></td>
+   </tr>
+   </table>
 
 ## 1.2. Solution Profile
 
