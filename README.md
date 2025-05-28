@@ -314,7 +314,7 @@ Teniendo en cuenta el análisis competitivo, salió a relevancia que hay una car
 ## 1.3. Segmentos objetivo
 - **Cocineros independientes y restaurantes locales**: Aquellos que no cuentan con presencia digital o quieren ampliar su alcance sin depender de grandes plataformas.
 - **Consumidores locales**: Personas interesadas en experiencias gastronómicas auténticas, de cercanía, que valoran lo artesanal y personalizado.
-- **Turistas gastronómicos**: Visitantes interesados en explorar la cultura culinaria local más allá de los lugares convencionales.
+
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
