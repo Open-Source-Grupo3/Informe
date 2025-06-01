@@ -1,3 +1,5 @@
+<div style="text-align: center;">
+
 # INFORME DEL TRABAJO FINAL
 
 ![alt text](assets/img/upc.png)
@@ -8,75 +10,91 @@
 
 ### CICLO 2024-02
 
-- Nombre del curso: Desarrollo de Aplicaciones Open-Source  
-- Sección: 4348
-- Nombre del Profesor: Hugo Allan Mori Paiva
-- Nombre del StartUp: SabroSaic
-- Nombre del Producto: PlatoX
+<h4>
+    Nombre del curso: Desarrollo de Aplicaciones Open-Source<br>
+    Sección: 4348<br>
+    Nombre del Profesor: Hugo Allan Mori Paiva<br>
+    Nombre del StartUp: SabroSaic <br>
+    Nombre del Producto: PlatoX
+</h4>
+</div>
 
 ### Relación de Integrantes:
 
-<table>
-<tr>
-    <th colspan="2">Nombre</th>
-    <th colspan="10">Código</th>
-</tr>
-<tr>
-     <td colspan="2">Chamorro Acero, Salvador Edward</td>
-     <td colspan="10">U201914367</td>
-</tr>
- <tr>
-     <td colspan="2">Mendoza Solis, Javier Kenyi</td>
-     <td colspan="10">U201824550</td>
- </tr>
- <tr>
-     <td colspan="2">Calixto Iriarte, David Alejandro</td>
-     <td colspan="10">U20201B441</td>
-</tr>
- <tr>
-     <td colspan="2">Carhuancote Dominguez, Gonzalo Alonso</td>
-     <td colspan="10">U202210720</td>
-</tr>
- <tr>
-     <td colspan="2">Calle Huayanca, Adrian Alonso</td>
-     <td colspan="10">U202011657</td>
+<table style="text-align: center;">
+    <tr>
+        <th colspan="2">Nombre</th>
+        <th colspan="10">Código</th>
+    </tr>
+    <tr>
+        <td colspan="2">Chamorro Acero, Salvador Edward</td>
+        <td colspan="10">U201914367</td>
+    </tr>
+    <tr>
+        <td colspan="2">Mendoza Solis, Javier Kenyi</td>
+        <td colspan="10">U201824550</td>
+    </tr>
+    <tr>
+        <td colspan="2">Calixto Iriarte, David Alejandro</td>
+        <td colspan="10">U20201B441</td>
+    </tr>
+    <tr>
+        <td colspan="2">Carhuancote Dominguez, Gonzalo Alonso</td>
+        <td colspan="10">U202210720</td>
+    </tr>
+    <tr>
+        <td colspan="2">Calle Huayanca, Adrian Alonso</td>
+        <td colspan="10">U202011657</td>
+    </tr>
 </table>
 
 ## Historial de Versiones
 
- <table>
- <tr>
-     <th colspan="3">Version</th>
-     <th colspan="3">Fecha</th>
-     <th colspan="10">Autores</th>
-     <th colspan="5">Descripción de Modificaciones</th>
-   <tr>
-     <td colspan="3">TB1</td>
-     <td colspan="3">24/04/2025</td>
-     <td colspan="10">
-        Chamorro Acero, Salvador Edward
-        Mendoza Solis, Javier Kenyi
-        Calixto Iriarte, David Alejandro
-        Carhuancote Dominguez, Gonzalo Alonso
-        Calle Huayanca, Adrian Alonso
-     </td>
-     <td colspan="5">
-         Creación de Capítulos 1 - 5
-     </td>
-   </tr>
-   <tr>
-     <td colspan="3">TP</td>
-     <td colspan="3"></td>
-     <td colspan="10"></td>
-     <td colspan="5"></td>
-   </tr>
-   <tr>
-     <td colspan="3">TB2</td>
-     <td colspan="3"></td>
-     <td colspan="10"></td>
-     <td colspan="5"></td>
-   </tr>
-   </table>
+<table>
+    <tr>
+        <th colspan="3">Version</th>
+        <th colspan="3">Fecha</th>
+        <th colspan="10">Autores</th>
+        <th colspan="5">Descripción de Modificaciones</th>
+    <tr>
+        <td colspan="3">TB1</td>
+        <td colspan="3">24/04/2025</td>
+        <td colspan="10">
+            Chamorro Acero, Salvador Edward
+            Mendoza Solis, Javier Kenyi
+            Calixto Iriarte, David Alejandro
+            Carhuancote Dominguez, Gonzalo Alonso
+            Calle Huayanca, Adrian Alonso
+        </td>
+        <td colspan="5">
+            Creación de Capítulos 1 - 5<br>
+            Creación de la primera version de la Landing Page<br>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3">TP</td>
+        <td colspan="3">12/05/2025</td>
+        <td colspan="10">
+            Chamorro Acero, Salvador Edward
+            Mendoza Solis, Javier Kenyi
+            Calixto Iriarte, David Alejandro
+            Carhuancote Dominguez, Gonzalo Alonso
+            Calle Huayanca, Adrian Alonso
+        </td>
+        <td colspan="5">
+            Correción de Errores<br>
+            Correción y mejoramiento de la Landing Page<br>
+            Creación de la primera Version del FrontEnd<br>
+            Despliegue de Landing Page y FrontEnd, conectados correctamente<br>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3">TB2</td>
+        <td colspan="3"></td>
+        <td colspan="10"></td>
+        <td colspan="5"></td>
+    </tr>
+</table>
 
 ## Project Report Collaboration Insights
 
@@ -178,7 +196,7 @@ muestran los análisis de colaboración y commits en GitHub para el repositorio 
 
 # Student Outcome
 
- <table>
+<table>
   <tr>
      <th colspan="2">Criterio Específico</th>
      <th colspan="10">Acciones Realizadas</th>
@@ -186,15 +204,77 @@ muestran los análisis de colaboración y commits en GitHub para el repositorio 
   </tr>
   <tr>
      <td colspan="2">Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
-     <td colspan="10"><b>Gonzalo Alonso Carhuancote Dominguez</b> <br>TB1: Elaboración de la Landing Page Inicial y desarrollo del Capitulo 3, además de una entrevista para trabajo<br><br>TP:<br>Implementacion de Mejoras y finalizacion de la Landing Page y del capitulo 3. Elaboracion del Language-Switcher, Home, profile, footer y login component del FrontEnd<br>TB2:<br><br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b> </b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
-     <td colspan="2">En esta etapa del proyecto, hemos definido y documentado las historias de usuario que guiarán la creación de nuestra aplicación web. Identificamos las principales funcionalidades necesarias para cocineros y clientes, como publicar menús, hacer pedidos o gestionar perfiles. Aplicamos buenas prácticas con formato Gherkin y estructura clara, asegurando trazabilidad y validación de requisitos. Este trabajo nos permitió comprender mejor las necesidades del usuario y cómo traducirlas en funciones clave. Con ello, sentamos una base sólida para el diseño y desarrollo de la app PlatoX.</td>
+     <td colspan="10">
+        <b>Gonzalo Alonso Carhuancote Dominguez</b>
+        <p>TB1: Elaboración de la Landing Page Inicial y desarrollo del Capítulo 3, además de una entrevista para trabajo</p>
+        <p>TP:<br>Implementación de Mejoras y finalización de la Landing Page y del capítulo 3. Elaboración del Language-Switcher, Home, profile, footer y login component del FrontEnd</p>
+        <p>TB2:</p>
+        <p>TF:</p>
+        <b>--</b>
+        <p>TB1:</p>
+        <p>TP:</p>
+        <p>TB2:</p>
+        <p>TF:</p>
+        <br><b>--</b>
+        <p>TB1:</p>
+        <p>TP:</p>
+        <p>TB2:</p>
+        <p>TF:</p>
+        <br><b>--</b>
+        <p>TB1:</p>
+        <p>TP:</p>
+        <p>TB2:</p>
+        <p>TF:</p>
+        <br><b>--</b>
+        <p>TB1:</p>
+        <p>TP:</p>
+        <p>TB2:</p>
+        <p>TF:</p>
+     </td>
+     <td colspan="2">
+        <p>TB1: En esta etapa del proyecto, hemos definido y documentado las historias de usuario que guiarán la creación de nuestra aplicación web. Identificamos las principales funcionalidades necesarias para cocineros y clientes, como publicar menús, hacer pedidos o gestionar perfiles. Aplicamos buenas prácticas con formato Gherkin y estructura clara, asegurando trazabilidad y validación de requisitos. Este trabajo nos permitió comprender mejor las necesidades del usuario y cómo traducirlas en funciones clave. Con ello, sentamos una base sólida para el diseño y desarrollo de la app PlatoX.</p>
+        <p>TP:</p>
+        <p>TB2:</p>
+        <p>TF:</p>
+     </td>
   </tr>
   <tr>
      <td colspan="2">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
-     <td colspan="10"><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>--</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b> </b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
-     <td colspan="2"></td>
+     <td colspan="10">
+        <b>Gonzalo Alonso Carhuancote Dominguez</b> 
+        <p>TB1: Durante la primera entrega, pude realizar una entrevista partir de las historias de usuario, además de crear la Landing Page a partir de las necesidades de los usuarios</p>
+        <p>TP:</p>
+        <p>TB2:</p>
+        <p>TF:</p>
+        <b>--</b>
+        <p>TB1:</p>
+        <p>TP:</p>
+        <p>TB2:</p>
+        <p>TF:</p>
+        <b>--</b>
+        <p>TB1:</p>
+        <p>TP:</p>
+        <p>TB2:</p>
+        <p>TF:</p>
+        <b>--</b>
+        <p>TB1:</p>
+        <p>TP:</p>
+        <p>TB2:</p>
+        <p>TF:</p>
+        <b>--</b>
+        <p>TB1:</p>
+        <p>TP:</p>
+        <p>TB2:</p>
+        <p>TF:</p>
+     </td>
+     <td colspan="2">
+        <p>TB1:</p>
+        <p>TP:</p>
+        <p>TB2:</p>
+        <p>TF:</p>
+     </td>
   </tr>
-   </table>
+</table>
 
 # Startup Profile
 
@@ -663,12 +743,12 @@ Para desplegar nuestra landing page en la plataforma de GitHub, seguimos los sig
 De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y podrá ser visible para cualquier usuario
 que tenga el enlace.
 
-Enlace del Landing Page: https://open-source-grupo3.github.io/LandingPage/
+Enlace de la Landing Page: https://open-source-grupo3.github.io/LandingPage/
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
 En esta sección se explicará y evidenciará el proceso de implementación, pruebas,
-documentación y despliegue del Landing Page.
+documentación y despliegue de la Landing Page.
 
 ### 5.2.1. Sprint 1
 
@@ -772,5 +852,7 @@ Analíticas de Colaboración:
 # Anexos
 
 Vídeo TB1:
-Video
-TP: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210720_upc_edu_pe/EU97lwLEpf9IkeemPa3NlqMBaOL83e3xXXEUVpVv1B01Bw?e=YKjhpI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Video TP: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210720_upc_edu_pe/EU97lwLEpf9IkeemPa3NlqMBaOL83e3xXXEUVpVv1B01Bw?e=YKjhpI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Video TB2:
