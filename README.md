@@ -446,6 +446,14 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 - **Descripción**: Después de clases, sale a comprar su comida, ya es más práctico al elegir restaurantes.
 - **URL**:https://drive.google.com/file/d/1e43nv0_SmxZkjo6lZTbU0J8Nxe90hsPY/view
 
+#### Katy Perez
+
+- **Edad**: 23 años.
+- **Ocupación**: Universitario.
+- **Descripción**: Sale a con frecuencia comer en restaurantes locales con amigos o pareja
+- **URL**:
+ 
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
