@@ -451,7 +451,8 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 - **Edad**: 23 años.
 - **Ocupación**: Universitario.
 - **Descripción**: Sale a con frecuencia comer en restaurantes locales con amigos o pareja
-- **URL**:
+- **URL**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201824550_upc_edu_pe/Ecq-kniv8PZCiJV4U7HvEPcB3gNtISEmfQa9VbiGYAcIvQ?e=gnj1hf
+  
  
 
 ### 2.2.3. Análisis de entrevistas
