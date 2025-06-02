@@ -210,9 +210,9 @@ muestran los análisis de colaboración y commits en GitHub para el repositorio 
         <p>TP:<br>Implementación de Mejoras y finalización de la Landing Page y del capítulo 3. Elaboración del Language-Switcher, Home, profile, footer y login component del FrontEnd</p>
         <p>TB2:</p>
         <p>TF:</p>
-        <b>--</b>
-        <p>TB1:</p>
-        <p>TP:</p>
+        <b>Javier Kenyi Mendoza Solis</b>
+        <p>TB1: Elaboracion de la primera version del Product Design, ademas de una entrevista para trabajo</p>
+        <p>TP: Elaboracion de la primera version del Style Guidelines, Labeling Systems y Searching Systems</p>
         <p>TB2:</p>
         <p>TF:</p>
         <br><b>--</b>
@@ -246,7 +246,7 @@ muestran los análisis de colaboración y commits en GitHub para el repositorio 
         <p>TP:</p>
         <p>TB2:</p>
         <p>TF:</p>
-        <b>--</b>
+        <b>Javier Kenyi Mendoza Solis</b>
         <p>TB1:</p>
         <p>TP:</p>
         <p>TB2:</p>
