@@ -446,16 +446,16 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 - **Descripción**: Después de clases, sale a comprar su comida, ya es más práctico al elegir restaurantes.
 - **URL**:https://drive.google.com/file/d/1e43nv0_SmxZkjo6lZTbU0J8Nxe90hsPY/view
 
-#### Katy Perez
+#### Katty Perez
 
-<img src="assets/img/Entrevista Katy Perez.png" alt="Foto Katy" style="width:450px; height:auto;">
+<img src="assets/img/Entrevista Katy Perez.png" alt="Foto Katty" style="width:450px; height:auto;">
 
 - **Edad**: 23 años.
 - **Ocupación**: Universitario.
 - **Descripción**: Sale a con frecuencia comer en restaurantes locales con amigos o pareja
 - **URL**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201824550_upc_edu_pe/Ecq-kniv8PZCiJV4U7HvEPcB3gNtISEmfQa9VbiGYAcIvQ?e=gnj1hf
   
-Katy comenta que en promedio come fuera 2 o 3 veces por semana y disfruta descubrir nuevos restaurantes, especialmente locales o poco conocidos. Usa Google Maps o Instagram para buscar lugares valorando el tipo de comida, reseñas, precio y cercanía. Le interesan funciones como menús del día, promociones, rutas temáticas y recomendaciones basadas en sus gustos. Confiaría en una app que ofrezca reseñas reales y dé prioridad a negocios pequeños en lugar de grandes cadenas.
+Katty comenta que en promedio come fuera 2 o 3 veces por semana y disfruta descubrir nuevos restaurantes, especialmente locales o poco conocidos. Usa Google Maps o Instagram para buscar lugares valorando el tipo de comida, reseñas, precio y cercanía. Le interesan funciones como menús del día, promociones, rutas temáticas y recomendaciones basadas en sus gustos. Confiaría en una app que ofrezca reseñas reales y dé prioridad a negocios pequeños en lugar de grandes cadenas.
 
 ### 2.2.3. Análisis de entrevistas
 
