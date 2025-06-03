@@ -318,6 +318,8 @@ descubrir lugares auténticos según intereses personales y su ubicación.
 
 ### 1.2.2. Lean UX Process
 
+Para el desarrollo de PlatoX, aplicaremos el enfoque Lean UX con el objetivo de construir una solución centrada en las necesidades reales de los usuarios, validando continuamente nuestras ideas y minimizando el riesgo de desarrollar funcionalidades innecesarias. Esta metodología nos permitirá trabajar de forma ágil y colaborativa, enfocándonos en el diseño de una experiencia significativa para consumidores y restaurantes locales. Utilizaremos la plantilla de Business Opportunity Statements (Gothelf, 2022) como herramienta clave para identificar oportunidades concretas, alinear al equipo en torno a los problemas reales detectados, y generar hipótesis que puedan ser rápidamente testeadas. A través del pensamiento de diseño y ciclos iterativos de ideación, prototipado y validación, buscaremos entender a fondo cómo los usuarios descubren, eligen y valoran la gastronomía local.
+
 #### 1.2.2.1. Lean UX Problem Statements
 
 - **Domain**: Mercado gastronómico digital centrado en cocineros y restaurantes locales.
@@ -362,8 +364,6 @@ descubrir lugares auténticos según intereses personales y su ubicación.
   su alcance sin depender de grandes plataformas.
 - **Consumidores locales**: Personas interesadas en experiencias gastronómicas auténticas, de cercanía, que valoran lo
   artesanal y personalizado.
-- **Turistas gastronómicos**: Visitantes interesados en explorar la cultura culinaria local más allá de los lugares
-  convencionales.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
