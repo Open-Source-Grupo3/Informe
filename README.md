@@ -297,6 +297,8 @@ Software, quienes nos consideramos capacitados para realizar este trabajo de for
 
 ## 1.2. Solution Profile
 
+PlatoX es una solución digital pensada para revitalizar la gastronomía local, conectando directamente a restaurantes independientes, puestos de comida y cocinas emergentes con consumidores interesados en experiencias culinarias auténticas y cercanas. La plataforma permite a los negocios gastronómicos publicar menús diarios, promociones, horarios y contenido personalizado para atraer clientes, todo desde una interfaz amigable. Por su parte, los usuarios pueden descubrir nuevas propuestas culinarias cerca de su ubicación, filtrar por tipo de comida o precio, y disfrutar de recomendaciones basadas en sus gustos e historial. PlatoX no solo aumenta la visibilidad de los pequeños negocios de comida, sino que también promueve la economía local y la convivencia a través de la comida. A largo plazo, se proyecta como una comunidad digital de referencia para los amantes de la gastronomía urbana auténtica, ofreciendo experiencias únicas y apoyando a quienes hacen de la cocina su pasión y sustento.
+
 ### 1.2.1. Antecedentes y problemática
 
 Teniendo en cuenta el análisis competitivo, salió a relevancia que hay una carencia en plataformas enfocadas
