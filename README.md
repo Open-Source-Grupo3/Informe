@@ -448,7 +448,7 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 
 #### Katy Perez
 
-![FotoEntrevista](./img/Entrevista Katy Perez.png.png)
+<img src="assets/img/Entrevista Katy Perez.png" alt="Foto Katy" style="width:100px; height:auto;">
 
 - **Edad**: 23 años.
 - **Ocupación**: Universitario.
