@@ -448,6 +448,8 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 
 #### Katy Perez
 
+![FotoEntrevista](./img/Entrevista Katy Perez.png.png)
+
 - **Edad**: 23 años.
 - **Ocupación**: Universitario.
 - **Descripción**: Sale a con frecuencia comer en restaurantes locales con amigos o pareja
