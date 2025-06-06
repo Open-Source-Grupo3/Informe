@@ -301,7 +301,7 @@ local, enfatizando en la experiencia, la autenticidad y la convivencia.
      <th colspan="2">Codigo</td>
    <tr>
      <td colspan="3">
-      <img src="assets/img/Foto Javier Kenyi Mendoza Solis.jpg" alt="Foto Javier" style="width:100px; height:auto;">
+      <img src="assets/img/Foto Javier Kenyi Mendoza Solis.jpg" alt="Foto Javier" style="width:200px; height:auto;">
      </td>
      <td colspan="3">Mendoza Solis Javier Kenyi</td>
      <td colspan="10">Ingenieria de Software</td>
