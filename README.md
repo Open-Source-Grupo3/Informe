@@ -567,9 +567,9 @@ Katty comenta que en promedio come fuera 2 o 3 veces por semana y disfruta descu
 
 ### 2.3.4. Empathy Mapping
 
-| **DICE**                                           | **PIENSA**                              | **HACE**                                             | **SIENTE**                                                                                               |
-|----------------------------------------------------|-----------------------------------------|------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| "Quiero que más personas conozcan mi restaurante." | "Las apps de delivery me cobran mucho." | "Mi comida es buena, pero la gente no me encuentra." | Publica fotos en redes sociales. Pega volantes en la zona. Intenta registrarse en plataformas digitales. | Orgulloso de su comida y esfuerzo. Frustrado por la falta de visibilidad. Inseguro con la tecnología. |
+Segmento Objetivo
+
+<img src="assets/img/Persona Empaty Mapping - Consumidor.png" alt="EM Katty" style="width:600px; height:auto;">
 
 ### 2.3.5. As-is Scenario Mapping
 
