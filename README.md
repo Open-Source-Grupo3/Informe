@@ -663,6 +663,8 @@ Segmento Objetivo
 |                            | Desea recibir pedidos fácilmente desde la app        | Recibir pedidos                   | US-08               |
 |                            | Quiere recibir pagos en línea                        | Procesar pagos                    | US-09               |
 
+![Impact_map_segmento2](./assets/img/Impact_map_segmento2.png)  
+
 # 3.4 Product Backlog
 
 | **N.º orden** | **User Story ID** | **Título**                            | **Descripción**                                                                                  | **Prioridad** | **Story Points** |
