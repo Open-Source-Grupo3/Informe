@@ -460,12 +460,13 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 
 ### Análisis SWOT
 
-| | **TripAdvisor**   | **Rappi**                                                                  | **Google Maps**                                                                   |
-| |-------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| | **Fortalezas**    | Reputación global, muchas reseñas, contenido confiable.                    | Delivery eficiente, promociones, cobertura urbana amplia.                         | Alcance masivo, navegación precisa, múltiples funciones integradas. |
-| | **Debilidades**   | Poco enfoque en locales pequeños, desactualización en zonas no turísticas. | No todos los restaurantes están disponibles; enfoque solo en consumo a domicilio. | Falta de curaduría local, saturación de opciones, publicidad. |
-| | **Oportunidades** | Expansión hacia experiencias personalizadas y tours gastronómicos locales. | Ampliar oferta gastronómica con mejores filtros y descubrimiento local.           | Integración con IA para recomendaciones personalizadas. |
-| | **Amenazas**      | Nuevas apps locales más enfocadas en el día a día de los residentes.       | Competencia en apps de delivery y cambios en hábitos de consumo.                  | Competidores más especializados en nichos como gastronomía o cultura local. |
+| **Análisis**       | **TripAdvisor**                                                                 | **Rappi**                                                                  | **Google Maps**                                                                   | **PlatoX**                                                                                 |
+|--------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| **Fortalezas**     | Reputación global, muchas reseñas, contenido confiable.                         | Delivery eficiente, promociones, cobertura urbana amplia.                   | Alcance masivo, navegación precisa, múltiples funciones integradas.              | Enfoque en gastronomía local, autenticidad, visibilidad para negocios pequeños.            |
+| **Debilidades**    | Poco enfoque en locales pequeños, desactualización en zonas no turísticas.      | No todos los restaurantes están disponibles; enfoque solo en consumo a domicilio. | Falta de curaduría local, saturación de opciones, publicidad.                | Aún en fase inicial, requiere crecimiento de usuarios y restaurantes.                      |
+| **Oportunidades**  | Expansión hacia experiencias personalizadas y tours gastronómicos locales.      | Ampliar oferta gastronómica con mejores filtros y descubrimiento local.     | Integración con IA para recomendaciones personalizadas.                          | Crear comunidad digital, implementar rutas temáticas y recomendaciones personalizadas.     |
+| **Amenazas**       | Nuevas apps locales más enfocadas en el día a día de los residentes.            | Competencia en apps de delivery y cambios en hábitos de consumo.            | Competidores más especializados en nichos como gastronomía o cultura local.     | Entrada de grandes plataformas en nicho local, baja adopción inicial por parte del usuario. |
+
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
