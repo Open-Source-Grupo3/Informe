@@ -575,6 +575,8 @@ Segmento Objetivo 2
 | **Visita**         | Comer y disfrutar la experiencia     | Va al local, prueba la comida                    | “Qué suerte si me gusta”                  | Contento si acierta, decepcionado si no | Descubre tarde lugares interesantes                        |
 | **Recomendación**  | Compartir su experiencia si le gustó | Publica en redes si le impresionó                | “Esto debería conocerlo más gente”        | Orgulloso de su hallazgo                | No siempre tiene forma rápida de recomendar de manera útil |
 
+![Segmento_journey_map](./assets/img/Segmento_journey_map.png)
+
 ### 2.3.4. Empathy Mapping
 
 Segmento Objetivo
