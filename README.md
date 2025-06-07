@@ -534,11 +534,13 @@ Katty comenta que en promedio come fuera 2 o 3 veces por semana y disfruta descu
 
 ### 2.3.1. User Personas
 
-##Segmento Objetivo 1
+Segmento Objetivo 1
 
 <img src="assets/img/Katty Perez UserPersona.png" alt="UP Katty" style="width:600px; height:auto;">
 
 ### 2.3.2. User Task Matrix
+
+Segmento Objetivo 1
 
 | **Usuario**  | **Tarea Principal**                        | **Frecuencia** | **Prioridad** |
 |--------------|--------------------------------------------|----------------|---------------|
@@ -548,6 +550,8 @@ Katty comenta que en promedio come fuera 2 o 3 veces por semana y disfruta descu
 | S. Purilla   | Buscar un restaurante cercano              | Frecuente      | Alta          |
 | S. Purilla   | Leer reseñas o ver fotos reales            | Frecuente      | Alta          |
 | S. Purilla   | Compartir experiencias o recomendaciones   | Ocasional      | Media         |
+
+Segmento Objetivo 2
 
 ### 2.3.3. User Journey Mapping
 
