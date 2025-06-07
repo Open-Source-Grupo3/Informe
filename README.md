@@ -593,6 +593,7 @@ Segmento Objetivo
 
 ![Mapa_de_escenario_v2](./assets/img/Mapa_de_escenario_v2.jpg)
 
+
 ## 2.4. Ubiquitous Language
 
 | **Term**                  | **Definition (en español)**                                                                                                                                 |
