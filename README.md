@@ -528,6 +528,17 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
   
 Katty comenta que en promedio come fuera 2 o 3 veces por semana y disfruta descubrir nuevos restaurantes, especialmente locales o poco conocidos. Usa Google Maps o Instagram para buscar lugares valorando el tipo de comida, reseñas, precio y cercanía. Le interesan funciones como menús del día, promociones, rutas temáticas y recomendaciones basadas en sus gustos. Confiaría en una app que ofrezca reseñas reales y dé prioridad a negocios pequeños en lugar de grandes cadenas.
 
+#### Rodrigo Duran
+
+ 
+
+- **Edad**: 23 años.
+- **Ocupación**:  Dueño de un restaurante local pequeño
+- **Descripción**:  Busca aumentar su visibilidad para atraer más clientes
+- **URL**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201824550_upc_edu_pe/Ecq-kniv8PZCiJV4U7HvEPcB3gNtISEmfQa9VbiGYAcIvQ?e=gnj1hf
+  
+Actualmente sus clientes lo encuentran por boca a boca, Google Maps y redes sociales como Instagram y Facebook. Valora mucho la visibilidad digital y considera que un negocio que no está en Internet, “prácticamente no existe”. Usa redes sociales con publicaciones y promociones, aunque su presupuesto para campañas es limitado. Le interesaría participar en una app que promueva exclusivamente restaurantes locales, que ofrezca funciones como reseñas de clientes, mayor exposición frente a nuevos usuarios, y opciones para atraer público en horarios de baja demanda. Confía en una plataforma bien hecha que lo conecte con personas que buscan experiencias auténticas y diferentes.
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
