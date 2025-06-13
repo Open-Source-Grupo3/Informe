@@ -594,7 +594,11 @@ Segmento Objetivo 2
 
 ### 2.3.4. Empathy Mapping
 
-Segmento Objetivo
+Segmento Objetivo 1
+
+<img src="assets/img/Persona Empaty Mapping Dueño Restaurante.png" alt="EM Rodrigo" style="width:600px; height:auto;">
+
+Segmento Objetivo 2
 
 <img src="assets/img/Persona Empaty Mapping - Consumidor.png" alt="EM Katty" style="width:600px; height:auto;">
 
