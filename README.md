@@ -530,7 +530,7 @@ Katty comenta que en promedio come fuera 2 o 3 veces por semana y disfruta descu
 
 #### Rodrigo Duran
 
- <img src="assets/img/EntrevistaRodrigoDuran.png" alt="Foto RodrigoDuran" style="width:450px; height:auto;">
+ <img src="assets/img/EntrevistaRodrigoDuran.png" alt="Foto RodrigoDuran" style="width:600px; height:auto;">
 
 - **Edad**: 26 años.
 - **Ocupación**:  Dueño de un restaurante local pequeño
@@ -546,6 +546,10 @@ Actualmente sus clientes lo encuentran por boca a boca, Google Maps y redes soci
 ### 2.3.1. User Personas
 
 Segmento Objetivo 1
+
+<img src="assets/img/UserPersonaRodrigoDuran.png" alt="UP Rodrigo" style="width:600px; height:auto;">
+
+Segmento Objetivo 2
 
 <img src="assets/img/Katty Perez UserPersona.png" alt="UP Katty" style="width:600px; height:auto;">
 
