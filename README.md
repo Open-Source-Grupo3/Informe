@@ -568,7 +568,7 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 
 Segmento 1:
 
-
+<img src="assets/img/Impact map Segmento1.png" alt="IMP1" style="width:1000px; height:auto;">
 
 Segmento 2:
 
