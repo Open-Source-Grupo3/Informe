@@ -566,6 +566,10 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 |                            | Desea recibir pedidos fácilmente desde la app        | Recibir pedidos                   | US-08               |
 |                            | Quiere recibir pagos en línea                        | Procesar pagos                    | US-09               |
 
+Segmento 1:
+
+
+
 Segmento 2:
 
 ![Impact_map_segmento2](./assets/img/Impact_map_segmento2.png)  
