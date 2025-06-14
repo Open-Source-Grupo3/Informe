@@ -606,7 +606,7 @@ Segmento Objetivo 1
 
 Segmento Objetivo 2
 
-<img src="assets/img/Persona Empaty Mapping - Consumidor.png" alt="EM Katty" style="width:600px; height:auto;">
+<img src="assets/img/Persona Empaty Mapping - Consumidor.png" alt="EM Katty" style="width:1000px; height:auto;">
 
 ### 2.3.5. As-is Scenario Mapping
 
