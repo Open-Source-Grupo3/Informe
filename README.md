@@ -596,7 +596,7 @@ Segmento Objetivo 2
 
 #### Rodrigo Duran
 
-<img src="assets/img/Segmento journey map Rodrigo.png" alt="UJM Rodrigo" style="width:800px; height:auto;">
+<img src="assets/img/Segmento journey map Rodrigo.png" alt="UJM Rodrigo" style="width:1000px; height:auto;">
 
 ### 2.3.4. Empathy Mapping
 
