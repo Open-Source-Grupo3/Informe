@@ -616,6 +616,11 @@ Segmento Objetivo 2
 | **Thinking** | Sebastián intenta mejorar la visibilidad de su restaurante                           | Motivado por hacer crecer su negocio                  | Frustrado al no ver resultados visibles o por la competencia con grandes cadenas | Observa el comportamiento de los clientes y busca guías de posicionamiento online | Prueba con promociones, mejora sus fotos o responde reseñas sin lograr mucho impacto            |
 | **Feeling**  | Sebastián ve que sus esfuerzos digitales no generan suficientes visitas              | Orgulloso de la calidad de su comida, pero desanimado | Se siente invisible frente a los negocios más grandes o con más recursos         | Recibe pocas interacciones en redes y comentarios esporádicos                     | Mantiene la calidad en su cocina mientras espera que el boca a boca lo ayude a crecer           |
 
+Segmento Objetivo 1
+
+ <img src="assets/img/Mapa de escenario1.jpg" alt="ME_1" style="width:1000px; height:auto;">
+
+Segmento Objetivo 2
 
  <img src="assets/img/Mapa_de escenario_v2.jpg" alt="ME_V2" style="width:1000px; height:auto;">
 
