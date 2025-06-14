@@ -602,7 +602,7 @@ Segmento Objetivo 2
 
 Segmento Objetivo 1
 
-<img src="assets/img/Persona Empaty Mapping Dueño Restaurante.png" alt="EM Rodrigo" style="width:600px; height:auto;">
+<img src="assets/img/Persona Empaty Mapping Dueño Restaurante.png" alt="EM Rodrigo" style="width:1000px; height:auto;">
 
 Segmento Objetivo 2
 
