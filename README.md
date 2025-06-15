@@ -566,13 +566,16 @@ Segmento Objetivo 1
 | S. Purilla   | Leer reseñas o ver fotos reales            | Frecuente      | Alta          |
 | S. Purilla   | Compartir experiencias o recomendaciones   | Ocasional      | Media         |
 
-Segmento Objetivo 2
 
 ### 2.3.3. User Journey Mapping
+
+Segmento Objetivo 1
 
 #### Rodrigo Duran
 
 <img src="assets/img/Segmento journey map Rodrigo.png" alt="UJM Rodrigo" style="width:1000px; height:auto;">
+
+Segmento Objetivo 2
 
 #### Katty Perez
 
@@ -589,12 +592,6 @@ Segmento Objetivo 2
 <img src="assets/img/Persona Empaty Mapping - Consumidor.png" alt="EM Katty" style="width:1000px; height:auto;">
 
 ### 2.3.5. As-is Scenario Mapping
-
-| **Fases**    | **Actividad**                                                                        | **Emoción**                                           | **Dolor**                                                                        | **Información**                                                                   | **Acciones**                                                                                    |
-|--------------|--------------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| **Doing**    | Sebastián publica su restaurante en redes sociales y se registra en apps de delivery | Esperanzado por atraer nuevos clientes                | Abrumado por la dificultad técnica y las comisiones altas                        | Encuentra información dispersa y poco clara en internet                           | Pide ayuda a familiares o conocidos para registrar su restaurante o mejorar su presencia online |
-| **Thinking** | Sebastián intenta mejorar la visibilidad de su restaurante                           | Motivado por hacer crecer su negocio                  | Frustrado al no ver resultados visibles o por la competencia con grandes cadenas | Observa el comportamiento de los clientes y busca guías de posicionamiento online | Prueba con promociones, mejora sus fotos o responde reseñas sin lograr mucho impacto            |
-| **Feeling**  | Sebastián ve que sus esfuerzos digitales no generan suficientes visitas              | Orgulloso de la calidad de su comida, pero desanimado | Se siente invisible frente a los negocios más grandes o con más recursos         | Recibe pocas interacciones en redes y comentarios esporádicos                     | Mantiene la calidad en su cocina mientras espera que el boca a boca lo ayude a crecer           |
 
 Segmento Objetivo 1
 
