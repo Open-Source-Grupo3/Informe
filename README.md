@@ -503,13 +503,6 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 
 ### 2.2.2. Registro de entrevistas
 
-#### Sebastián Henríquez
-
-- **Edad**: 24 años.
-- **Ocupación**: Universitario.
-- **Descripción**: Ayuda a su madre en su local de comida y entiende algo del negocio.
-- **URL**:
-
 #### Sebastián Purilla
 
 - **Edad**: 25 años.
