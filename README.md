@@ -558,11 +558,11 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 
 # 3.3 Impact Mapping
 
-Segmento 1:
+## Segmento 1:
 
 <img src="assets/img/Impact map Segmento1.png" alt="IMP1" style="width:1000px; height:auto;">
 
-Segmento 2:
+## Segmento 2:
 
 ![Impact_map_segmento2](./assets/img/Impact_map_segmento2.png)  
 
