@@ -593,6 +593,28 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 
 # Capítulo IV: Product Design
 
+## 4.1. Software Configuration Management
+
+En este apartado, se mostrará de manera organizada los estilos y herramientas que se usarán para diseñar nuestra solución.
+
+## 4.1.1 Software Configuration Management
+
+Brand Overview
+
+En muchas ciudades, los pequeños restaurantes y cocineros locales tienen dificultades para destacar en plataformas dominadas por grandes marcas, lo que limita su alcance y crecimiento. Al mismo tiempo, los consumidores buscan experiencias gastronómicas auténticas y cercanas, pero carecen de herramientas para descubrirlas fácilmente.
+PlatoX es una plataforma digital que conecta a los usuarios con la oferta gastronómica local, permitiendo a negocios pequeños publicar menús, promociones y contenidos personalizados. A través de una experiencia basada en ubicación e intereses, PlatoX promueve la visibilidad de la cocina artesanal y fomenta la conexión entre comunidad y gastronomía.
+
+Brand name
+
+El nombre de nuestra solución, PlatoX, surge de la unión de dos conceptos:
+
+"Plato" representa la comida, la experiencia culinaria y la variedad de sabores que definen la gastronomía local.
+
+La "X" simboliza lo desconocido, lo que está por descubrir: ese lugar único, ese platillo especial que aún no has probado.
+
+Este nombre transmite el propósito central de la plataforma: ayudar a las personas a descubrir nuevos sabores, nuevos lugares y nuevas experiencias gastronómicas cercanas. PlatoX es la guía para encontrar ese “plato sorpresa” que espera justo a la vuelta de la esquina.
+
+A continuación, se presenta el Logo:
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
