@@ -570,33 +570,13 @@ Segmento Objetivo 2
 
 ### 2.3.3. User Journey Mapping
 
-#### Sebastián Henríquez
+#### Rodrigo Duran
 
-| **Etapa**              | **Objetivo**                 | **Hace**                                                 | **Piensa**                                              | **Siente**                    | **Punto de Dolor**                                         |
-|------------------------|------------------------------|----------------------------------------------------------|---------------------------------------------------------|-------------------------------|------------------------------------------------------------|
-| **Descubrimiento**     | Aumentar visibilidad         | Pregunta a otros, navega por redes, busca apps           | “¿Cómo logro que más personas conozcan mi restaurante?” | Curioso, confundido           | No tiene herramientas digitales claras para comenzar       |
-| **Registro**           | Crear presencia online       | Intenta subir su restaurante a Google o apps de delivery | “¿Estaré haciéndolo bien?”                              | Inseguro, desorientado        | Interfaces poco claras o procesos largos                   |
-| **Publicación activa** | Esperar que lleguen clientes | Comparte links, sube fotos                               | “¿La gente lo está viendo? ¿Funciona esto?”             | Ansioso, esperanzado          | No recibe retroalimentación visible sobre impacto          |
-| **Interacción**        | Obtener reseñas              | Atiende bien, pide feedback                              | “¿Volverán? ¿Les gustó?”                                | Orgulloso, pero con dudas     | No todos dejan reseña, no hay seguimiento                  |
-| **Fidelización**       | Mantener clientes activos    | Hace promociones por redes, entrega cupones              | “No puedo hacer todo solo”                              | Frustrado, limitado de tiempo | Falta de herramientas para mantener relaciones sostenibles |
-
-#### Sebastián Purilla
-
-| **Etapa**          | **Objetivo**                         | **Hace**                                         | **Piensa**                                | **Siente**                              | **Punto de Dolor**                                         |
-|--------------------|--------------------------------------|--------------------------------------------------|-------------------------------------------|-----------------------------------------|------------------------------------------------------------|
-| **Descubrimiento** | Conocer nuevos restaurantes cerca    | Revisa Google, TikTok, recomendaciones de amigos | “¿Dónde hay algo distinto y bueno cerca?” | Antojado, curioso                       | Solo encuentra opciones populares o muy visibles           |
-| **Evaluación**     | Decidir cuál probar                  | Compara reseñas, fotos, precios                  | “¿Será buena elección?”                   | Cauteloso, indeciso                     | Falta de info real de negocios pequeños                    |
-| **Decisión**       | Escoger el restaurante               | Guarda en Maps, lo comenta con amigos            | “Espero no equivocarme”                   | Emocionado                              | Puede perder mucho tiempo comparando                       |
-| **Visita**         | Comer y disfrutar la experiencia     | Va al local, prueba la comida                    | “Qué suerte si me gusta”                  | Contento si acierta, decepcionado si no | Descubre tarde lugares interesantes                        |
-| **Recomendación**  | Compartir su experiencia si le gustó | Publica en redes si le impresionó                | “Esto debería conocerlo más gente”        | Orgulloso de su hallazgo                | No siempre tiene forma rápida de recomendar de manera útil |
+<img src="assets/img/Segmento journey map Rodrigo.png" alt="UJM Rodrigo" style="width:1000px; height:auto;">
 
 #### Katty Perez
 
 ![Segmento_journey_map](./assets/img/Segmento_journey_map.png)
-
-#### Rodrigo Duran
-
-<img src="assets/img/Segmento journey map Rodrigo.png" alt="UJM Rodrigo" style="width:1000px; height:auto;">
 
 ### 2.3.4. Empathy Mapping
 
