@@ -593,7 +593,7 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 
 # Capítulo IV: Product Design
 
-## 4.1. Software Configuration Management
+## 4.1 Software Configuration Management
 
 En este apartado, se mostrará de manera organizada los estilos y herramientas que se usarán para diseñar nuestra solución.
 
