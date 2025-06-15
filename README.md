@@ -591,6 +591,10 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 | 19            | US-19             | Historial de notificaciones           | Como cliente o cocinero, quiero ver el historial de notificaciones para mantenerme organizado.   | Media         | 3                |
 | 20            | US-20             | Sistema de chat                       | Como cliente o cocinero, quiero usar un chat para mantener la comunicación con la otra parte.    | Media         | 2                |
 
+# Capítulo IV: Product Design
+
+
+
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
