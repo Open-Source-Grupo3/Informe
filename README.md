@@ -618,6 +618,15 @@ A continuación, se presenta el Logo:
 
 <img src="assets/img/Logo PlatoX.png" alt="LogoPlatoX" style="width:500px; height:auto;">
 
+Typography
+
+La tipografía en PlatoX está cuidadosamente seleccionada para reflejar el carácter cercano, auténtico y acogedor de nuestra marca. Hemos elegido fuentes que equilibran lo artesanal con lo digital, garantizando legibilidad en todos los dispositivos y manteniendo una estética cálida y humana.
+
+La jerarquía tipográfica está dividida en cuatro niveles:
+headings (encabezados), body (texto general), buttons (botones) y links (enlaces), lo cual asegura una experiencia clara, intuitiva y coherente para el usuario.
+
+<img src="assets/img/styles.png" alt="stylesPlatoX" style="width:500px; height:auto;">
+
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
