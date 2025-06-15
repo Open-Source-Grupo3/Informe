@@ -616,6 +616,7 @@ Este nombre transmite el propósito central de la plataforma: ayudar a las perso
 
 A continuación, se presenta el Logo:
 
+<img src="assets/img/Logo PlatoX.png" alt="LogoPlatoX" style="width:500px; height:auto;">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
