@@ -505,10 +505,14 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 
 #### Sebastián Purilla
 
+<img src="assets/img/EntrevistaSebastianPurilla.png" alt="EntrevistaSebastianPurilla">
+
 - **Edad**: 25 años.
 - **Ocupación**: Universitario.
 - **Descripción**: Después de clases, sale a comprar su comida, ya es más práctico al elegir restaurantes.
 - **URL**:https://drive.google.com/file/d/1e43nv0_SmxZkjo6lZTbU0J8Nxe90hsPY/view
+
+Sebastian comenta que suele comer fuera de casa usualmente cunado va a la universidad, por ello trata de buscar lugares cercanos a su sede, a buen precio y de buen sabor. Él suele usar Google Maps, pero no siempre están actualizados, por ello le interesarían funciones donde poder ver restaurantes cercanos y actualizados, asi como poder ver y comparar precios.
 
 #### Katty Perez
 
