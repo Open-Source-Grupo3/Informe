@@ -554,15 +554,11 @@ Segmento Objetivo 2
 
 Segmento Objetivo 1
 
-| **Usuario**  | **Tarea Principal**                        | **Frecuencia** | **Prioridad** |
-|--------------|--------------------------------------------|----------------|---------------|
-| S. Henriquez | Registrar su restaurante en una plataforma | Puntual        | Alta          |
-| S. Henriquez | Actualizar menú, horarios y promociones    | Regular        | Alta          |
-| S. Henriquez | Ver estadísticas de visitas o interés      | Ocasional      | Media         |
-| S. Purilla   | Buscar un restaurante cercano              | Frecuente      | Alta          |
-| S. Purilla   | Leer reseñas o ver fotos reales            | Frecuente      | Alta          |
-| S. Purilla   | Compartir experiencias o recomendaciones   | Ocasional      | Media         |
+<img src="assets/img/USMT1.jpg" alt="USTM1" style="width:800px; height:auto;">
 
+Segmento Objetivo 2
+
+<img src="assets/img/USMT2.png" alt="USTM2" style="width:800px; height:auto;">
 
 ### 2.3.3. User Journey Mapping
 
