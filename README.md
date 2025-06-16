@@ -558,7 +558,7 @@ Segmento Objetivo 1
 
 Segmento Objetivo 2
 
-<img src="assets/img/USMT2.png" alt="USTM2" style="width:800px; height:auto;">
+<img src="assets/img/USMT2.jpg" alt="USTM2" style="width:800px; height:auto;">
 
 ### 2.3.3. User Journey Mapping
 
