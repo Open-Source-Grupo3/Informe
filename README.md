@@ -627,6 +627,18 @@ headings (encabezados), body (texto general), buttons (botones) y links (enlaces
 
 <img src="assets/img/styles.png" alt="stylesPlatoX" style="width:500px; height:auto;">
 
+Colors
+
+### 4.1.2. Web Style Guidelines
+
+El sitio web que desarrollaremos será completamente adaptable a dispositivos móviles, garantizando una experiencia de usuario óptima en cualquier tamaño de pantalla. Se priorizará un diseño intuitivo y atractivo, que se ajuste adecuadamente a las distintas resoluciones que ofrecen los dispositivos actuales.
+
+El diseño seguirá el patrón en forma de “Z”, comenzando por mostrar el logotipo en la parte superior izquierda al iniciar la navegación. Desde allí, el usuario se dirigirá de forma natural hacia la derecha, donde se ubicarán las principales opciones de navegación. Luego, el desplazamiento continuará hacia abajo para explorar el contenido general, finalizando con un movimiento hacia la derecha en la parte inferior, donde encontrará información sobre nuestra startup y los canales de contacto.
+
+Además, se empleará una paleta de colores que inspire calma, confianza y atractivo, fomentando el interés en utilizar la aplicación. Los espacios y efectos visuales se utilizarán estratégicamente para facilitar la comprensión del propósito tanto del sitio de inicio como de la aplicación web.
+
+<img src="assets/img/PatronZ.jpg" alt="PatronZ" style="width:500px; height:auto;">
+
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
