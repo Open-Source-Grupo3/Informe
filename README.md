@@ -105,7 +105,7 @@ muestran los análisis de colaboración y commits en GitHub para el repositorio 
 ![alt text](assets/img/insights2.png)
 
 **Entrega N°3: TB2**
-![alt text](assets/img/insights2_tb2.png)
+![alt text](assets/img/insights1_tb2.png)
 ![alt text](assets/img/insights2_tb2.png)
 
 # Índice
