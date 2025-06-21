@@ -35,16 +35,8 @@
         <td colspan="10">U201824550</td>
     </tr>
     <tr>
-        <td colspan="2">Calixto Iriarte, David Alejandro</td>
-        <td colspan="10">U20201B441</td>
-    </tr>
-    <tr>
         <td colspan="2">Carhuancote Dominguez, Gonzalo Alonso</td>
         <td colspan="10">U202210720</td>
-    </tr>
-    <tr>
-        <td colspan="2">Calle Huayanca, Adrian Alonso</td>
-        <td colspan="10">U202011657</td>
     </tr>
 </table>
 
@@ -90,9 +82,12 @@
     </tr>
     <tr>
         <td colspan="3">TB2</td>
-        <td colspan="3"></td>
-        <td colspan="10"></td>
-        <td colspan="5"></td>
+        <td colspan="3">18/06/25</td>
+        <td colspan="10">Chamorro Acero, Salvador Edward
+            Mendoza Solis, Javier Kenyi
+            Carhuancote Dominguez, Gonzalo Alonso
+        </td>
+        <td colspan="5">Correcion de Errores Reestructuración del frontend.<br> Primera version del BackEnd desplegada, aun sin conectar pero integracion al completo de FakeAPI</td>
     </tr>
 </table>
 
@@ -208,7 +203,7 @@ muestran los análisis de colaboración y commits en GitHub para el repositorio 
         <b>Gonzalo Alonso Carhuancote Dominguez</b>
         <p>TB1: Elaboración de la Landing Page Inicial y desarrollo del Capítulo 3, además de una entrevista para trabajo</p>
         <p>TP:<br>Implementación de Mejoras y finalización de la Landing Page y del capítulo 3. Elaboración del Language-Switcher, Home, profile, footer y login component del FrontEnd</p>
-        <p>TB2:</p>
+        <p>TB2:<br> Restructuración del FrontEnd, funcionalidades mejoradas y añadidas, aun con conexión con fake-api. Realización de Entrevistan y apoyo en el informe</p>
         <p>TF:</p>
         <b>Javier Kenyi Mendoza Solis</b>
         <p>TB1: Elaboracion de la primera version del Product Design, ademas de una entrevista para trabajo</p>
@@ -233,8 +228,10 @@ muestran los análisis de colaboración y commits en GitHub para el repositorio 
      </td>
      <td colspan="2">
         <p>TB1: En esta etapa del proyecto, hemos definido y documentado las historias de usuario que guiarán la creación de nuestra aplicación web. Identificamos las principales funcionalidades necesarias para cocineros y clientes, como publicar menús, hacer pedidos o gestionar perfiles. Aplicamos buenas prácticas con formato Gherkin y estructura clara, asegurando trazabilidad y validación de requisitos. Este trabajo nos permitió comprender mejor las necesidades del usuario y cómo traducirlas en funciones clave. Con ello, sentamos una base sólida para el diseño y desarrollo de la app PlatoX.</p>
-        <p>TP:</p>
-        <p>TB2:</p>
+        <p>TP:<br>Desarrollamos la SPA en Angular con Angular Material, aplicando rutas, componentes reutilizables y traducción dinámica con i18n. Se implementaron mockups en Figma, wireflows en Lucidchart y prototipos funcionales conectados al diseño de la Landing Page.</p>
+        <p>TB2:<br>Desarrollamos la API RESTful en Spring Boot con documentación OpenAPI. Integramos servicios al frontend Angular, configuramos despliegue en entorno cloud y versionado semántico. Validamos mediante entrevistas grabadas y pruebas de usabilidad con criterios heurísticos.
+
+</p>
         <p>TF:</p>
      </td>
   </tr>
@@ -243,8 +240,8 @@ muestran los análisis de colaboración y commits en GitHub para el repositorio 
      <td colspan="10">
         <b>Gonzalo Alonso Carhuancote Dominguez</b> 
         <p>TB1: Durante la primera entrega, pude realizar una entrevista partir de las historias de usuario, además de crear la Landing Page a partir de las necesidades de los usuarios</p>
-        <p>TP:</p>
-        <p>TB2:</p>
+        <p>TP: Durante la entrega Parcial me encargué del desarrollo del informe y del Frontend parcialmente tanto desarrollo como despliegue</p>
+        <p>TB2: Gracias a las retroalimentaciones y al seguir escuchando el feedback de los segmentos objetivos, logré reestructurar el Fronted con las funcionalidades requeridas por los usuarios, además de acomodar a las funciones de ambas vistas, tanto de chef como diner.</p>
         <p>TF:</p>
         <b>Javier Kenyi Mendoza Solis</b>
         <p>TB1:</p>
@@ -268,9 +265,9 @@ muestran los análisis de colaboración y commits en GitHub para el repositorio 
         <p>TF:</p>
      </td>
      <td colspan="2">
-        <p>TB1:</p>
-        <p>TP:</p>
-        <p>TB2:</p>
+        <p>TB1:<br>En esta primera fase, como equipo aprendimos a organizar nuestras ideas desde la conceptualización del modelo de negocio hasta la implementación de una primera versión visual coherente y funcional. Diseñamos la estructura del Landing Page aplicando principios de diseño responsivo y accesibilidad, integrando estilos modernos en CSS y funcionalidades en JavaScript. Paralelamente, elaboramos los primeros capítulos del informe, incluyendo perfiles de usuario, Lean UX Canvas, entrevistas y mapas de empatía. Esta etapa fue crucial para alinear la visión del grupo y establecer una base sólida de trabajo.</p>
+        <p>TP:<br>Durante la segunda etapa, dimos el salto hacia el desarrollo con Angular. Aquí aprendimos a utilizar Angular Material para construir componentes modulares, accesibles y en línea con los lineamientos de diseño. Implementamos la lógica de internacionalización (i18n), navegación y adaptación de contenido dinámico, respetando el diseño establecido en la landing. Además, validamos flujos de navegación a través de wireflows y mockups en Figma, permitiendo afinar la experiencia de usuario. Esta fase fortaleció nuestra capacidad para traducir necesidades funcionales en interfaces reales.</p>
+        <p>TB2:<br>En esta etapa, integramos por primera vez el backend con servicios RESTful desarrollados en Spring Boot. Esta fue una fase desafiante en la que aprendimos a documentar e implementar endpoints bajo el estándar OpenAPI. Desplegamos las aplicaciones, gestionamos entornos de configuración y aplicamos buenas prácticas de control de versiones con GitFlow y Conventional Commits. Además, ejecutamos entrevistas de validación para recibir feedback real y realizar mejoras.</p>
         <p>TF:</p>
      </td>
   </tr>
@@ -309,11 +306,13 @@ local, enfatizando en la experiencia, la autenticidad y la convivencia.
      <th colspan="2">u201824550</td>
    </tr>
    <tr>
-     <td colspan="3"></td>
-     <td colspan="3"></td>
-     <td colspan="10"></td>
-     <td colspan="5"></td>
-     <td colspan="2"></td>
+     <td colspan="3">
+      <img src="assets/img/FotoGonzalo.jpg" alt="Foto Gonzalo" style="width:300px; height:auto;">
+     </td>
+     <td colspan="3">Gonzalo Alonso Carhuancote Dominguez</td>
+     <td colspan="10">Ingeniería de Software</td>
+     <td colspan="5">Tengo 20 años estudio la carrera de ingeniería de software, actualmente me encuentro en el mi 7.º ciclo en la UPC. En mis tiempos libres estudio, juego videojuegos y me informo del mundo actual y moderno.</td>
+     <td colspan="2">U202210720</td>
    </tr>
    <tr>
      <td colspan="3"></td>
