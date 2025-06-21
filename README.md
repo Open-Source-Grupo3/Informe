@@ -1143,7 +1143,7 @@ Esta sección documenta los servicios desarrollados para gestionar la vinculaci�
 
 Además, se incluyen endpoints que permiten acceder a reseñas y valoraciones emitidas por comensales, facilitando así una toma de decisiones más confiable al momento de explorar y seleccionar nuevas experiencias culinarias.
 
-<img src="assets/img/Evidencias Branchs.png" alt="EB" style="width:700px; height:auto;">
+<img src="assets/img/Evidencia Deployments.jpeg" alt="ED" style="width:700px; height:auto;">
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -1153,6 +1153,8 @@ eso, hemos creado un repositorio donde hemos colocado el código de desarrollo d
 Una vez creado el repositorio, entraremos a configuración del repositorio y escogemos el apartado de Pages. Se coloca la
 información necesaria, como la fuente del branch a utilizar para realizar el deployment. Luego de eso, Github Pages nos
 brindará el link y desplegará nuestra landing page en la Web.
+
+<img src="assets/img/Evidencias Pulse.png" alt="EP" style="width:700px; height:auto;">
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
