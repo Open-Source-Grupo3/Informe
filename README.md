@@ -100,9 +100,11 @@ muestran los análisis de colaboración y commits en GitHub para el repositorio 
 
 **Entrega N°1: TB1**
 
+
 **Entrega N°2: TP1**
 ![alt text](assets/img/insights1.png)
 ![alt text](assets/img/insights2.png)
+
 
 **Entrega N°3: TB2**
 ![alt text](assets/img/insights1_tb2.png)
@@ -318,10 +320,10 @@ local, enfatizando en la experiencia, la autenticidad y la convivencia.
    </tr>
    <tr>
      <td colspan="3"></td>
-     <td colspan="3"></td>
-     <td colspan="10"></td>
-     <td colspan="5"></td>
-     <td colspan="2"></td>
+     <td colspan="3">Salvador Edward Chamorro Acero</td>
+     <td colspan="10">Ingeniería de Software</td>
+     <td colspan="5">Estudiante de Ingenieria de Software en la UPC, me gusta la programacion</td>
+     <td colspan="2">U201914367</td>
    </tr>
    <tr>
      <td colspan="3"></td>
