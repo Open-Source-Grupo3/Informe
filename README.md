@@ -1125,6 +1125,12 @@ En el primer sprint, el equipo se enfocó en crear una landing page atractiva y 
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 
+Evidencia del desarrollo mediante commits:
+
+<img src="assets/img/Commits Main.png" alt="CM" style="width:700px; height:auto;">
+
+<img src="assets/img/Commits Develop.png" alt="CD" style="width:700px; height:auto;">
+
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 En este sprint, no se desarrollaron Web Services, por lo que no hubo ningún Unit Testing relacionado a estos.
