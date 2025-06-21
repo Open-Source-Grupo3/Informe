@@ -538,6 +538,225 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 | 20            | US-20             | Sistema de chat                    | Como cliente o cocinero, quiero usar un chat para mantener la comunicación con la otra parte. | Media         | 2                |
 
 
+Okay, aquí tienes una versión del texto adaptada para ser subida a GitHub, con un enfoque en la estructura y el uso de Markdown para formatearlo. He mantenido el contenido original y lo he organizado de manera que sea fácil de leer y entender en un entorno de código.
+
+Markdown
+
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
+
+Este apartado muestra los estilos y herramientas utilizados para diseñar nuestra solución.
+
+### 4.1.1. General Style Guidelines
+
+#### Brand Overview
+
+En muchas ciudades, los pequeños restaurantes y cocineros locales tienen dificultades para destacar en plataformas dominadas por grandes marcas, lo que limita su alcance y crecimiento. Al mismo tiempo, los consumidores buscan experiencias gastronómicas auténticas y cercanas, pero carecen de herramientas para descubrirlas fácilmente. [cite: 3]
+
+PlatoX es una plataforma digital que conecta a los usuarios con la oferta gastronómica local, permitiendo a negocios pequeños publicar menús, promociones y contenidos personalizados.  A través de una experiencia basada en ubicación e intereses, PlatoX promueve la visibilidad de la cocina artesanal y fomenta la conexión entre comunidad y gastronomía. 
+
+#### Brand Name
+
+El nombre de nuestra solución, PlatoX, surge de la unión de dos conceptos:
+
+* "Plato" representa la comida, la experiencia culinaria y la variedad de sabores que definen la gastronomía local. 
+* La "X" simboliza lo desconocido, lo que está por descubrir: ese lugar único, ese platillo especial que aún no has probado.
+
+Este nombre transmite el propósito central de la plataforma: ayudar a las personas a descubrir nuevos sabores, nuevos lugares y nuevas experiencias gastronómicas cercanas.
+
+PlatoX es la guía para encontrar ese “plato sorpresa” que espera justo a la vuelta de la esquina.
+#### Logo
+
+![Logo de PlatoX](https://github.com/U202011657/prueba/blob/main/logo.jpg?raw=true)
+
+
+
+#### Typography
+
+La tipografía en PlatoX está cuidadosamente seleccionada para reflejar el carácter cercano, auténtico y acogedor de nuestra marca. 
+
+Hemos elegido fuentes que equilibran lo artesanal con lo digital, garantizando legibilidad en todos los dispositivos y manteniendo una estética cálida y humana. 
+
+La jerarquía tipográfica está dividida en cuatro niveles: headings (encabezados), body (texto general), buttons (botones) y links (enlaces), lo cual asegura una experiencia clara, intuitiva y coherente para el usuario.
+
+![Ejemplo de Tipografía](https://github.com/U202011657/prueba/blob/main/texto.jpg?raw=true)
+
+#### Colors
+
+### 4.1.2. Web Style Guidelines
+
+El sitio web que desarrollaremos será completamente adaptable a dispositivos móviles, garantizando una experiencia de usuario óptima en cualquier tamaño de pantalla.
+
+Se priorizará un diseño intuitivo y atractivo, que se ajuste adecuadamente a las distintas resoluciones que ofrecen los dispositivos actuales. 
+
+El diseño seguirá el patrón en forma de “Z”, comenzando por mostrar el logotipo en la parte superior izquierda al iniciar la navegación. 
+Desde allí, el usuario se dirigirá de forma natural hacia la derecha, donde se ubicarán las principales opciones de navegación.
+
+Luego, el desplazamiento continuará hacia abajo para explorar el contenido general, finalizando con un movimiento hacia la derecha en la parte inferior, donde encontrará información sobre nuestra startup y los canales de contacto. 
+
+Además, se empleará una paleta de colores que inspire calma, confianza y atractivo, fomentando el interés en utilizar la aplicación. 
+
+Los espacios y efectos visuales se utilizarán estratégicamente para facilitar la comprensión del propósito tanto del sitio de inicio como de la aplicación web.
+
+![Patrón de Diseño en Z](https://github.com/U202011657/prueba/blob/main/1234.jpg?raw=true)
+
+
+## 4.2. Information Architecture
+
+En esta sección, el equipo expone las decisiones y fundamentos que sustentan la organización del contenido en las experiencias web y móvil de PlatoX, incluyendo tanto la Landing Page como la Aplicación Web. Estas propuestas han sido concebidas para garantizar que los usuarios y visitantes se familiaricen rápidamente con las funcionalidades del producto, facilitando el acceso a la información que buscan de forma intuitiva y sin complicaciones.
+
+Las decisiones tomadas abarcan los sistemas de organización, etiquetado, navegación y búsqueda, con el objetivo de ofrecer una estructura clara, coherente y centrada en la experiencia del usuario.
+
+### 4.2.1. Organization Systems
+
+Para estructurar la arquitectura de la información de PlatoX, se ha implementado un sistema de organización jerárquico tanto en la Landing Page como en la Aplicación Web. Esta estructura permite una navegación fluida e intuitiva, asegurando que los usuarios encuentren fácilmente la información y funcionalidades que requieren. 
+
+#### Landing Page
+
+La Landing Page de PlatoX ha sido diseñada con una organización jerárquica clara, permitiendo a los visitantes acceder rápidamente a los contenidos más relevantes y realizar acciones esenciales dentro de la plataforma:
+
+**Barra de Navegación Principal**: Ubicada en la parte superior del sitio, ofrece accesos directos a las secciones principales:
+
+* **Inicio (Home)**: Página de bienvenida que presenta una visión general de los servicios de PlatoX. Incluye un banner principal con un mensaje destacado y botones de llamada a la acción para registrarse o iniciar sesión.
+  
+* **Servicios (Services)**: Sección que detalla los servicios disponibles, organizados de forma que distintos perfiles de usuarios puedan identificar fácilmente cómo PlatoX puede satisfacer sus necesidades técnicas y de mantenimiento en el hogar.
+  
+* **Planes (Plans)**: Describe las distintas modalidades de servicio disponibles, junto con sus características y beneficios.Esta sección está diseñada para facilitar la comparación y toma de decisiones por parte del usuario.
+  
+* **Contáctanos (Contact Us)**: Incluye datos de contacto, un formulario para consultas y enlaces a redes sociales, facilitando la comunicación entre los usuarios y el equipo de PlatoX.
+  
+* **Nosotros (About Us)**: Presenta la misión, visión y el equipo de trabajo detrás de PlatoX, promoviendo la confianza y transparencia en la relación con los usuarios. 
+
+* **Estructura de Contenido Jerárquica**:
+  
+    * **Encabezados y Subencabezados**: El contenido de cada sección está organizado mediante títulos jerárquicos que permiten a los usuarios profundizar fácilmente en la información que les interesa, mejorando la comprensión y la navegación dentro del sitio. 
+    * **Botones de Llamada a la Acción (CTAs)**: Ubicados estratégicamente a lo largo del sitio para incentivar acciones clave como el registro, inicio de sesión o el contacto directo con el equipo de PlatoX, facilitando así la interacción con la plataforma. 
+
+* **Footer**:
+    * El footer incluye accesos directos a secciones relevantes como la política de privacidad, términos y condiciones del servicio, información de contacto y enlaces a redes sociales.Esta área complementa la navegación principal, permitiendo a los usuarios obtener más información sobre PlatoX de manera rápida y sencilla. 
+
+#### Aplicación Web
+
+La Aplicación Web de PlatoX ha sido diseñada para brindar una experiencia personalizada a dos perfiles principales de usuarios: Cocineros Independientes y Restaurantes Locales, y Consumidores (Locales y Turistas Gastronómicos).La estructura del contenido facilita que cada tipo de usuario navegue de forma eficiente según sus necesidades específicas.
+
+* **Para Cocineros Independientes y Restaurantes Locales**:
+  
+    * **Inicio (Home)**: Presenta un resumen de pedidos recientes, notificaciones relevantes y accesos directos a funciones clave como la gestión del menú y configuración del perfil.
+      
+    * **Gestión de Menú (Menu Management)**: Permite crear, editar y organizar platos disponibles, incluyendo imágenes, descripciones, precios y disponibilidad por horarios.
+      
+    * **Pedidos (Orders)**: Muestra los pedidos en curso, historial de ventas y permite actualizar el estado de cada orden (en preparación, listo, entregado).
+      
+    * **Estadísticas (Analytics)**: Ofrece datos sobre desempeño, ingresos, platos más vendidos y comportamiento del cliente, ayudando a mejorar la oferta y optimizar la operación.
+      
+    * **Reseñas y Reputación (Reviews)**: Sección para visualizar la retroalimentación de los clientes, facilitando una mejora continua en el servicio y calidad.
+      
+* **Para Consumidores (Locales y Turistas Gastronómicos)**:
+    * **Inicio (Home)**: Ofrece una vista general personalizada con recomendaciones, platos destacados y accesos rápidos a menús recientes o favoritos.
+      
+    * **Explorar Comida Local (Explore Food)**: Función de búsqueda que permite descubrir cocineros y restaurantes cercanos según ubicación, tipo de comida o calificaciones.
+      
+    * **Favoritos (Favorites)**: Espacio para guardar y acceder rápidamente a cocineros o platos preferidos para futuros pedidos.
+      
+    * **Historial de Pedidos (Order History)**: Registro completo de pedidos anteriores, permitiendo volver a ordenar fácilmente platos favoritos o dar seguimiento a sus experiencias gastronómicas.
+      
+
+* **Interacción y Flujo de Trabajo**:
+    * La interfaz de PlatoX está pensada para ser intuitiva y accesible. Cada función está claramente identificada mediante texto e íconos, lo que permite a los usuarios tanto cocineros como consumidores realizar acciones con facilidad y en pocos pasos.El diseño visual está enfocado en guiar al usuario de forma clara y eficiente, asegurando una experiencia fluida en todo momento. 
+
+### 4.2.2. Labeling Systems
+
+En esta sección se describen los sistemas de etiquetado implementados en la Landing Page y la Aplicación Web de PlatoX. Estos sistemas han sido cuidadosamente diseñados para facilitar la navegación y optimizar la experiencia del usuario, asegurando que cada sección, botón y funcionalidad sea clara, comprensible y fácil de identificar.
+
+#### Etiquetas de Encabezados (Headings)
+
+El uso de etiquetas intuitivas permite que tanto cocineros como consumidores encuentren rápidamente lo que necesitan, reduciendo la confusión y mejorando la interacción con la plataforma. La combinación de texto claro y representaciones visuales como los íconos refuerza la comprensión incluso para usuarios con poca experiencia digital. 
+
+* **Inicio / Home**: Este encabezado aparece en la página principal y da la bienvenida a los usuarios, ofreciendo una visión general de lo que PlatoX ofrece. Incluye un banner destacado con la misión del proyecto y botones de acceso directo para registrarse o iniciar sesión en la plataforma.
+  
+* **Servicios / Services**: Sección dedicada a presentar las principales funcionalidades de PlatoX, como la exploración de ofertas gastronómicas locales, la gestión de menús por parte de los cocineros, el sistema de pedidos y las opciones de interacción entre usuarios.
+  
+* **Planes y Precios / Plans & Pricing**: Encabezado que describe las diferentes modalidades disponibles para cocineros y restaurantes, incluyendo los beneficios de cada plan, costos, y herramientas incluidas en cada nivel de suscripción.
+  
+* **Contáctanos / Contact Us**: Área que brinda los medios para establecer comunicación con el equipo de PlatoX, ya sea a través de un formulario de contacto, correo electrónico o enlaces a redes sociales. Está diseñada para facilitar consultas, soporte o propuestas de colaboración.
+  
+* **Sobre Nosotros / About Us**: Sección donde se comparte información sobre la visión, misión y valores de PlatoX, así como detalles sobre el equipo humano detrás del desarrollo de la plataforma. Busca generar confianza y conexión con los usuarios.
+
+#### Etiquetas Textuales (Text Labels)
+
+Las etiquetas textuales en PlatoX se utilizan para identificar claramente categorías, funciones y acciones dentro de la plataforma. Estas etiquetas permiten a los usuarios tanto cocineros como comensales navegar con facilidad y ejecutar tareas de forma eficiente:
+
+* **Explorar Comida / Explore Food**: Ubicada en la barra de búsqueda, permite a los usuarios ingresar una ubicación o tipo de comida para descubrir opciones gastronómicas disponibles cerca de ellos.
+
+* **Ordenar / Order**:Botón que permite a los consumidores seleccionar y confirmar un pedido de comida con un cocinero o restaurante local.
+
+* * **Historial / Order History**:Permite a los usuarios acceder a un registro de pedidos anteriores, con detalles sobre fechas, platos solicitados y valoraciones.
+
+
+* **Favoritos / Favorites**:Sección en la que los consumidores pueden guardar cocineros o platos preferidos para realizar pedidos rápidamente en futuras ocasiones.
+
+* * **Configuración / Settings**:Sección en la que los consumidores pueden guardar cocineros o platos preferidos para realizar pedidos rápidamente en futuras ocasiones.
+ 
+***Etiquetas Icónicas (Iconic Labels)
+
+Las etiquetas icónicas en PlatoX se representan mediante iconos visuales que transmiten su función de forma inmediata y sin necesidad de texto, mejorando la accesibilidad y usabilidad de la plataforma:
+
+** Icono de Lupa (Lupa)**: Representa la función de búsqueda de platos, cocineros o restaurantes, permitiendo una identificación rápida de esta acción.
+
+**Icono de Carrito**: Utilizado para acceder al resumen del pedido actual antes de confirmar la compra.
+
+**Icono de Reloj o Calendario**: Indica la programación o el historial de pedidos realizados, y en el caso de los cocineros, las próximas órdenes a preparar.
+
+**Icono de Corazón o Estrella**: Marca platos o cocineros como favoritos, facilitando su localización futura.
+
+**Icono de Campana**: Notifica a los usuarios sobre eventos importantes, como actualizaciones de pedidos, promociones o mensajes del cocinero.
+
+Estas etiquetas, tanto textuales como icónicas, están distribuidas estratégicamente en la interfaz de la Landing Page y la Aplicación Web, guiando al usuario de forma clara, eficiente y visualmente agradable durante toda su experiencia con PlatoX.
+
+
+*** 4.2.3. SEO Tags and Meta Tags
+
+Las etiquetas SEO y meta tags son fundamentales para asegurar que tanto la Landing Page como la Aplicación Web de PlatoX puedan ser correctamente indexadas por los motores de búsqueda, mejorando su visibilidad y facilitando una gestión técnica eficiente y optimizada.
+
+Título El título que se mostrará en los navegadores y resultados de búsqueda estará definido de la siguiente forma:
+
+<title>PlatoX</title>
+
+Descripción La descripción corta de la plataforma, pensada para resumir su propósito y captar el interés del usuario desde los resultados de búsqueda, se configurará así:
+
+<meta name="description" content="PlatoX es una plataforma que conecta cocineros independientes y restaurantes locales con consumidores interesados en experiencias gastronómicas auténticas y cercanas."/>
+
+Palabras Clave (Keywords) Entre las etiquetas clave esenciales para el comportamiento y visualización correcta de la página en distintos dispositivos, se utilizará la siguiente:
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+Autoría Para establecer claramente la propiedad del contenido y los derechos de autor de la plataforma, se emplea la siguiente etiqueta:
+
+<meta name="copyright" content="© 2025 PlatoX. Todos los derechos reservados."/>
+
+
+*** 4.2.4. Searching Systems
+
+Los sistemas de búsqueda implementados en la aplicación web de PlatoX están diseñados para facilitar la navegación de los usuarios y permitirles encontrar de manera rápida e intuitiva la información o servicio que necesitan. Las modalidades de búsqueda disponibles son:
+
+**Búsqueda por nombre o producto**: Los usuarios podrán buscar cocineros independientes o restaurantes escribiendo el nombre del establecimiento, del platillo o del chef en la barra de búsqueda.
+
+**Búsqueda por ubicación**: Se podrá utilizar una ubicación específica para encontrar propuestas gastronómicas cercanas, permitiendo descubrir comida local según la zona donde se encuentre el usuario.
+
+**Búsqueda mediante mapa interactivo**: Para una experiencia más visual, los usuarios contarán con un mapa en el que podrán explorar opciones de comida disponibles en zonas cercanas o planear pedidos en ubicaciones específicas.
+
+*** 4.2.5. Navigation Systems
+
+La navegación en la plataforma PlatoX está pensada para ser clara, fluida e intuitiva. La disposición de las secciones y los elementos visuales (colores, íconos y botones) permite que los usuarios comprendan fácilmente qué acciones pueden realizar en cada momento. Las funcionalidades principales, como registrarse, iniciar sesión, explorar platos, hacer pedidos, gestionar menús o revisar estadísticas estarán organizadas de forma lógica y accesible desde cualquier dispositivo.
+
+Además, la experiencia de búsqueda y navegación no presentara interrupciones, permitiendo que los comensales encuentren su próxima comida favorita sin complicaciones, y que los cocineros gestionen sus publicaciones y pedidos de manera eficiente.
+
+ 
+  
+
+
+
 # Capítulo V: Product Implementation, Validation & Deployment
  
  ## 5.1. Software Configuration Management
