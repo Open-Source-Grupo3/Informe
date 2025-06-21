@@ -1159,6 +1159,8 @@ brindará el link y desplegará nuestra landing page en la Web.
 Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y
 continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
+<img src="assets/img/Evidencias Pulse.png" alt="EP" style="width:700px; height:auto;">
+
 Commits:
 
 Analíticas de Colaboración:
