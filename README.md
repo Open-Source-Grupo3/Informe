@@ -660,9 +660,7 @@ Segmento Objetivo 2
 
 ## Segmento 2:
 
-![Impact_map_segmento2](./assets/img/Impact_map_segmento2.png)  
-
-![Impact_map_segmento2](./assets/img/Impact_map_segmento2.png)  
+![Impact_map_segmento2](./assets/img/Impact_map_segmento2.png)
 
 # 3.4 Product Backlog
 
