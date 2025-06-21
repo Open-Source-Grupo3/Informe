@@ -1109,6 +1109,16 @@ una de las tareas identificadas para el sprint.
 
 ### 5.2.1.2. Sprint Backlog 1
 
+En el primer sprint, el equipo se enfocó en crear una landing page atractiva y funcional, organizando y asignando tareas mediante el cuadro de Sprint según las habilidades de cada miembro.
+
+| Sprint #   |                             | Sprint 1         |                                         |                                                                          |                     |                                |                                           |
+| :--------- | :-------------------------- | :--------------- | :-------------------------------------- | :----------------------------------------------------------------------- | :------------------ | :----------------------------- | :---------------------------------------- |
+| User Story |                             | Work Item / Task |                                         |                                                                          |                     |                                |                                           |
+| Id         | Title                       | Id               | Title                                   | Descripción                                                             | Estimación (Hours) | Assigned to                    | Status (In -process / To - review / Done) |
+| US01       | Descripción de la web      | UT01             | Acerca de la web                        | Descripción de lo que trata nuestra pagina web.                         | 4                   |      | Done                                      |
+| US02       | Accesibilidad del contenido | UT02             | Disponibilidad accesible del contenido. | Que la página muestre el contenido correctamente (imagenes y enlaces). | 8                   |            | Done                                      |
+| US02       | Accesibilidad del contenido | UT03             | Diseño responsive de la página        | Que la página se visualice de manera correcta en cualquier dispositivo.      | 6                   |  | Done                                      |
+
 ### 5.2.1.3. Development Evidence for Sprint Review
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
