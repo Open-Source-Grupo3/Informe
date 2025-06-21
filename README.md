@@ -210,9 +210,9 @@ muestran los análisis de colaboración y commits en GitHub para el repositorio 
         <p>TP:<br>Implementación de Mejoras y finalización de la Landing Page y del capítulo 3. Elaboración del Language-Switcher, Home, profile, footer y login component del FrontEnd</p>
         <p>TB2:</p>
         <p>TF:</p>
-        <b>--</b>
-        <p>TB1:</p>
-        <p>TP:</p>
+        <b>Javier Kenyi Mendoza Solis</b>
+        <p>TB1: Elaboracion de la primera version del Product Design, ademas de una entrevista para trabajo</p>
+        <p>TP: Elaboracion de la primera version del Style Guidelines, Labeling Systems y Searching Systems</p>
         <p>TB2:</p>
         <p>TF:</p>
         <br><b>--</b>
@@ -246,7 +246,7 @@ muestran los análisis de colaboración y commits en GitHub para el repositorio 
         <p>TP:</p>
         <p>TB2:</p>
         <p>TF:</p>
-        <b>--</b>
+        <b>Javier Kenyi Mendoza Solis</b>
         <p>TB1:</p>
         <p>TP:</p>
         <p>TB2:</p>
@@ -292,10 +292,69 @@ local, enfatizando en la experiencia, la autenticidad y la convivencia.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-Nuestro equipo de trabajo está compuesto por perfiles multidisciplinarios, que incluye estudiantes de Ingeniería de
-Software, quienes nos consideramos capacitados para realizar este trabajo de forma correcta.
+<table>
+ <tr>
+     <th colspan="3">Foto</th>
+     <th colspan="3">Apellido y Nombre</th>
+     <th colspan="10">Carrera</td>
+     <th colspan="5">Acerca de</td>
+     <th colspan="2">Codigo</td>
+   <tr>
+     <td colspan="3">
+      <img src="assets/img/Foto Javier Kenyi Mendoza Solis.jpg" alt="Foto Javier" style="width:300px; height:auto;">
+     </td>
+     <td colspan="3">Mendoza Solis Javier Kenyi</td>
+     <td colspan="10">Ingenieria de Software</td>
+     <td colspan="5">Soy estudiante de Ingeniería de Software con una fuerte vocación por el aprendizaje constante y la formación autodidacta. Me caracterizo por una actitud proactiva y una excelente capacidad para integrarme y contribuir en equipos de trabajo colaborativos</td>
+     <th colspan="2">u201824550</td>
+   </tr>
+   <tr>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="10"></td>
+     <td colspan="5"></td>
+     <td colspan="2"></td>
+   </tr>
+   <tr>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="10"></td>
+     <td colspan="5"></td>
+     <td colspan="2"></td>
+   </tr>
+   <tr>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="10"></td>
+     <td colspan="5"></td>
+     <td colspan="2"></td>
+   </tr>
+   <tr>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="10"></td>
+     <td colspan="5"></td>
+     <td colspan="2"></td>
+   </tr>
+  <tr>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="10"></td>
+     <td colspan="5"></td>
+     <td colspan="2"></td>
+   </tr>
+  <tr>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="10"></td>
+     <td colspan="5"></td>
+     <td colspan="2"></td>
+   </tr>
+   </table>
 
 ## 1.2. Solution Profile
+
+PlatoX es una solución digital pensada para revitalizar la gastronomía local, conectando directamente a restaurantes independientes, puestos de comida y cocinas emergentes con consumidores interesados en experiencias culinarias auténticas y cercanas. La plataforma permite a los negocios gastronómicos publicar menús diarios, promociones, horarios y contenido personalizado para atraer clientes, todo desde una interfaz amigable. Por su parte, los usuarios pueden descubrir nuevas propuestas culinarias cerca de su ubicación, filtrar por tipo de comida o precio, y disfrutar de recomendaciones basadas en sus gustos e historial. PlatoX no solo aumenta la visibilidad de los pequeños negocios de comida, sino que también promueve la economía local y la convivencia a través de la comida. A largo plazo, se proyecta como una comunidad digital de referencia para los amantes de la gastronomía urbana auténtica, ofreciendo experiencias únicas y apoyando a quienes hacen de la cocina su pasión y sustento.
 
 ### 1.2.1. Antecedentes y problemática
 
@@ -315,6 +374,8 @@ descubrir lugares auténticos según intereses personales y su ubicación.
 - **How Much (¿Cuánto?)**: Más del 60% de locales pequeños no están representados digitalmente con efectividad.
 
 ### 1.2.2. Lean UX Process
+
+Para el desarrollo de PlatoX, aplicaremos el enfoque Lean UX con el objetivo de construir una solución centrada en las necesidades reales de los usuarios, validando continuamente nuestras ideas y minimizando el riesgo de desarrollar funcionalidades innecesarias. Esta metodología nos permitirá trabajar de forma ágil y colaborativa, enfocándonos en el diseño de una experiencia significativa para consumidores y restaurantes locales. Utilizaremos la plantilla de Business Opportunity Statements (Gothelf, 2022) como herramienta clave para identificar oportunidades concretas, alinear al equipo en torno a los problemas reales detectados, y generar hipótesis que puedan ser rápidamente testeadas. A través del pensamiento de diseño y ciclos iterativos de ideación, prototipado y validación, buscaremos entender a fondo cómo los usuarios descubren, eligen y valoran la gastronomía local.
 
 #### 1.2.2.1. Lean UX Problem Statements
 
@@ -360,8 +421,6 @@ descubrir lugares auténticos según intereses personales y su ubicación.
   su alcance sin depender de grandes plataformas.
 - **Consumidores locales**: Personas interesadas en experiencias gastronómicas auténticas, de cercanía, que valoran lo
   artesanal y personalizado.
-- **Turistas gastronómicos**: Visitantes interesados en explorar la cultura culinaria local más allá de los lugares
-  convencionales.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -383,27 +442,39 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 
 ### 2.1.1. Análisis Competitivo
 
-| **¿Por qué llevar a cabo este análisis?** | Lo que se busca es encontrar las ventajas y/o desventajas competitivas frente a nuestros competidores, para desarrollar una estrategia que destaque en el mercado. |
-|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **TripAdvisor**                           | **Rappi**                                                                                                                                                          | **Google Maps** |
-| **Perfil**                                | Plataforma global para viajeros que ofrece reseñas y rankings de restaurantes.                                                                                     | App de delivery con funciones para buscar y pedir comida de restaurantes cercanos. | Plataforma de mapas y navegación con funciones para explorar lugares cercanos. |
-| **Ventaja Competitiva**                   | Reseñas detalladas de turistas; foco en experiencia gastronómica durante viajes.                                                                                   | Comodidad de pedir comida desde casa con variedad y rapidez. | Cobertura global y navegación detallada sobre puntos específicos de cada local/restaurante. |
-| **Perfil de Marketing**                   | **Mercado Objetivo**                                                                                                                                               | Turistas y viajeros que buscan experiencias, entre ellas gastronómicas. | Usuarios urbanos que buscan comida rápida, delivery o promociones. | Todo tipo de usuario que necesita orientación geográfica y local. |
-|                                           | **Estrategias de Marketing**                                                                                                                                       | Alianzas con hoteles y agencias. | Promociones, marketing en redes sociales, cupones y descuentos. | Integración con el ecosistema Google, publicidad geolocalizada. |
-| **Perfil de Producto**                    | **Productos & Servicios**                                                                                                                                          | Reseñas, rankings, fotos, reservas en línea. | Entrega de comida, supermercados, farmacia, servicios. | Mapas, navegación, reseñas, fotos, horarios, tráfico en tiempo real. |
-|                                           | **Precios & Costos**                                                                                                                                               | Gratuito para usuarios, ingresos por publicidad y reservas afiliadas. | Cargos por envío y comisión a restaurantes. | Gratuito para usuarios; monetización por publicidad y servicios comerciales. |
-|                                           | **Canales de distribución**                                                                                                                                        | Web y app móvil. | App móvil principalmente, también versión web. | Web y app móvil. |
+|                        Competidores                        | PlatoX                                                                                                                    | TripAdvisor                                                                                                                   | Rappi                                                                                                    | Google Maps                                                                                                               |
+| :--------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+|                          **Logo**                          | ![PlatoX](./assets/img/Logo_PlatoX.png)                                                                              | ![TripAdvisor](./assets/img/logo_tripadvisor.png)                                                                                    | ![Rappi](./assets/img/logo_rappi.png)                                                                                         | ![Google Maps](./assets/img/logo_google_maps.png)                                                                                  |
+|                         **Perfil**                         |
+|                          Overview                          |  Plataforma digital que conecta a restaurantes, puestos de comida y cocinas emergentes con consumidores interesados en experiencias gastronómicas locales, auténticas y accesibles.                    | Plataforma global de turismo con enfoque en experiencias de viaje, incluyendo reseñas y rankings de restaurantes.   | App de delivery que también funciona como buscador de restaurantes con menús, promociones y calificaciones. | Herramienta de mapas y navegación con funciones para descubrir restaurantes cercanos y ver reseñas de usuarios. |
+| Ventaja competitiva <br> ¿Qué valor ofrece a los clientes? | Visibilidad a pequeños negocios de comida, interfaz fácil de usar, recomendaciones personalizadas, conexión directa entre oferta y demanda local, promoción de la economía de barrio y experiencias gastronómicas auténticas.                     | Comunidad activa que deja reseñas y calificaciones, rankings por popularidad y filtros avanzados. | Amplia red de restaurantes afiliados, posibilidad de pedir comida directamente y promociones constantes.                                     | Gran base de datos, integración con navegación, facilidad de uso y reseñas en tiempo real.          |
+|                    **Perfil Marketing**                    |
+|                      Mercado objetivo                      | Consumidores urbanos que buscan experiencias gastronómicas distintas y restaurantes independientes que quieren aumentar su visibilidad.                                                   | Viajeros y usuarios que buscan experiencias gastronómicas basadas en opiniones globales.                            | Usuarios urbanos que buscan conveniencia y rapidez al pedir comida o buscar restaurantes.                               | Público general que utiliza mapas para movilizarse y descubrir nuevos lugares para comer.                                     |
+|                  Estrategias de marketing                  | Promociones destacadas en la app, contenido generado por los usuarios, reseñas verificadas, alianzas con negocios locales, campañas en redes sociales y marketing de influencia en la escena foodie local.                                           | SEO, contenido generado por usuarios, alianzas con portales turísticos y redes sociales.                                       | Marketing digital intensivo, promociones integradas en la app y convenios con restaurantes.                                          | Integración con productos de Google, marketing digital basado en datos y experiencia de usuario personalizada.                               |
+|                   **Perfil de Producto**                   |
+|                   Productos & Servicios                    | Plataforma web y móvil para descubrir restaurantes, menús diarios, promociones, reseñas, ubicación en tiempo real, favoritos, filtros por tipo de comida y precios, perfil personalizado para restaurantes.                                       | Búsqueda avanzada de restaurantes, reseñas, fotos, rankings, experiencias de usuarios.      | Búsqueda de restaurantes, pedidos a domicilio, promociones y menús en línea.                             | Mapas, búsqueda de restaurantes, reseñas, fotos, rutas y horarios en tiempo real.                     |
+|                      Precios & Costos                      | Modelo freemium para restaurantes: acceso gratuito a funciones básicas y suscripción mensual para funcionalidades premium como promociones destacadas, analíticas y soporte preferente. Gratis para los usuarios consumidores.                                                         | Gratuito para usuarios; opción de publicidad paga para restaurantes.                                                | Costo de servicio para el usuario; comisiones a restaurantes.                                   | Gratuito para usuarios; publicidad local y de negocios como modelo de ingreso.                                                 |
+|        Canales de distribución <br> (Web y/o Móvil)        | Plataforma web y app móvil.                                                                                        | Plataforma web y app móvil.                                                                 | Plataforma web y app móvil.                                                              | Plataforma web y app móvil.                                     |
+
+
 
 ### Análisis SWOT
 
-| **TripAdvisor**   | **Rappi**                                                                  | **Google Maps**                                                                   |
-|-------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| **Fortalezas**    | Reputación global, muchas reseñas, contenido confiable.                    | Delivery eficiente, promociones, cobertura urbana amplia.                         | Alcance masivo, navegación precisa, múltiples funciones integradas. |
-| **Debilidades**   | Poco enfoque en locales pequeños, desactualización en zonas no turísticas. | No todos los restaurantes están disponibles; enfoque solo en consumo a domicilio. | Falta de curaduría local, saturación de opciones, publicidad. |
-| **Oportunidades** | Expansión hacia experiencias personalizadas y tours gastronómicos locales. | Ampliar oferta gastronómica con mejores filtros y descubrimiento local.           | Integración con IA para recomendaciones personalizadas. |
-| **Amenazas**      | Nuevas apps locales más enfocadas en el día a día de los residentes.       | Competencia en apps de delivery y cambios en hábitos de consumo.                  | Competidores más especializados en nichos como gastronomía o cultura local. |
+| **Análisis**       | **TripAdvisor**                                                                 | **Rappi**                                                                  | **Google Maps**                                                                   | **PlatoX**                                                                                 |
+|--------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| **Fortalezas**     | Reputación global, muchas reseñas, contenido confiable.                         | Delivery eficiente, promociones, cobertura urbana amplia.                   | Alcance masivo, navegación precisa, múltiples funciones integradas.              | Enfoque en gastronomía local, autenticidad, visibilidad para negocios pequeños.            |
+| **Debilidades**    | Poco enfoque en locales pequeños, desactualización en zonas no turísticas.      | No todos los restaurantes están disponibles; enfoque solo en consumo a domicilio. | Falta de curaduría local, saturación de opciones, publicidad.                | Aún en fase inicial, requiere crecimiento de usuarios y restaurantes.                      |
+| **Oportunidades**  | Expansión hacia experiencias personalizadas y tours gastronómicos locales.      | Ampliar oferta gastronómica con mejores filtros y descubrimiento local.     | Integración con IA para recomendaciones personalizadas.                          | Crear comunidad digital, implementar rutas temáticas y recomendaciones personalizadas.     |
+| **Amenazas**       | Nuevas apps locales más enfocadas en el día a día de los residentes.            | Competencia en apps de delivery y cambios en hábitos de consumo.            | Competidores más especializados en nichos como gastronomía o cultura local.     | Entrada de grandes plataformas en nicho local, baja adopción inicial por parte del usuario. |
+
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+| **MATRIZ FODA y C.A.M.E**                                                                 | **Oportunidades: Aumento del consumo local, búsqueda de experiencias gastronómicas auténticas y creciente uso de apps móviles para descubrir comida**                                                       | **Amenazas: Alta competencia de plataformas consolidadas y dificultad para mantener la fidelidad de usuarios y comercios pequeños**                                                                  |
+|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Fortalezas:** <br> Enfoque en negocios locales, diseño intuitivo, modelo freemium       | Reforzar el vínculo con los usuarios mediante funcionalidades de personalización y recompensas por fidelidad. Resaltar el impacto comunitario como diferencial clave frente a plataformas masivas.         | Diferenciar a PlatoX por su cercanía, sencillez y enfoque humano. Mantener una propuesta de valor clara y un soporte accesible para los negocios locales.                                           |
+| **Debilidades:** <br> Baja notoriedad de marca y dependencia de adopción inicial           | Implementar estrategias de marketing geolocalizado, colaboraciones con influencers gastronómicos locales y alianzas con ferias y emprendimientos del sector.                                                 | Mostrar la flexibilidad de PlatoX para adaptarse a distintas zonas y estilos de negocio. Destacar que no requiere comisiones elevadas ni equipos tecnológicos complejos.                             |
+
 
 ## 2.2. Entrevistas
 
@@ -432,19 +503,38 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 
 ### 2.2.2. Registro de entrevistas
 
-#### Sebastián Henríquez
-
-- **Edad**: 24 años.
-- **Ocupación**: Universitario.
-- **Descripción**: Ayuda a su madre en su local de comida y entiende algo del negocio.
-- **URL**:
-
 #### Sebastián Purilla
+
+<img src="assets/img/EntrevistaSebastianPurilla.png" alt="EntrevistaSebastianPurilla">
 
 - **Edad**: 25 años.
 - **Ocupación**: Universitario.
 - **Descripción**: Después de clases, sale a comprar su comida, ya es más práctico al elegir restaurantes.
 - **URL**:https://drive.google.com/file/d/1e43nv0_SmxZkjo6lZTbU0J8Nxe90hsPY/view
+
+Sebastian comenta que suele comer fuera de casa usualmente cunado va a la universidad, por ello trata de buscar lugares cercanos a su sede, a buen precio y de buen sabor. Él suele usar Google Maps, pero no siempre están actualizados, por ello le interesarían funciones donde poder ver restaurantes cercanos y actualizados, asi como poder ver y comparar precios.
+
+#### Katty Perez
+
+<img src="assets/img/Entrevista Katy Perez.png" alt="Foto Katty" style="width:450px; height:auto;">
+
+- **Edad**: 23 años.
+- **Ocupación**: Universitario.
+- **Descripción**: Sale a con frecuencia comer en restaurantes locales con amigos o pareja
+- **URL**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201824550_upc_edu_pe/Ecq-kniv8PZCiJV4U7HvEPcB3gNtISEmfQa9VbiGYAcIvQ?e=gnj1hf
+  
+Katty comenta que en promedio come fuera 2 o 3 veces por semana y disfruta descubrir nuevos restaurantes, especialmente locales o poco conocidos. Usa Google Maps o Instagram para buscar lugares valorando el tipo de comida, reseñas, precio y cercanía. Le interesan funciones como menús del día, promociones, rutas temáticas y recomendaciones basadas en sus gustos. Confiaría en una app que ofrezca reseñas reales y dé prioridad a negocios pequeños en lugar de grandes cadenas.
+
+#### Rodrigo Duran
+
+ <img src="assets/img/EntrevistaRodrigoDuran.png" alt="Foto RodrigoDuran" style="width:600px; height:auto;">
+
+- **Edad**: 26 años.
+- **Ocupación**:  Dueño de un restaurante local pequeño
+- **Descripción**:  Busca aumentar su visibilidad para atraer más clientes
+- **URL**: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u201824550_upc_edu_pe/Ecq-kniv8PZCiJV4U7HvEPcB3gNtISEmfQa9VbiGYAcIvQ?e=gnj1hf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210720_upc_edu_pe/EQAqsSBZD8tEpRj8ZL1U5EoBPrM3MGGcFLCW01bX4qVGzg?e=xbMY5H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+  
+Actualmente sus clientes lo encuentran por boca a boca, Google Maps y redes sociales como Instagram y Facebook. Valora mucho la visibilidad digital y considera que un negocio que no está en Internet, “prácticamente no existe”. Usa redes sociales con publicaciones y promociones, aunque su presupuesto para campañas es limitado. Le interesaría participar en una app que promueva exclusivamente restaurantes locales, que ofrezca funciones como reseñas de clientes, mayor exposición frente a nuevos usuarios, y opciones para atraer público en horarios de baja demanda. Confía en una plataforma bien hecha que lo conecte con personas que buscan experiencias auténticas y diferentes.
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -452,52 +542,59 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 
 ### 2.3.1. User Personas
 
+Segmento Objetivo 1
+
+<img src="assets/img/UserPersonaRodrigoDuran.png" alt="UP Rodrigo" style="width:600px; height:auto;">
+
+Segmento Objetivo 2
+
+<img src="assets/img/Katty Perez UserPersona.png" alt="UP Katty" style="width:600px; height:auto;">
+
 ### 2.3.2. User Task Matrix
 
-| **Usuario**  | **Tarea Principal**                        | **Frecuencia** | **Prioridad** |
-|--------------|--------------------------------------------|----------------|---------------|
-| S. Henriquez | Registrar su restaurante en una plataforma | Puntual        | Alta          |
-| S. Henriquez | Actualizar menú, horarios y promociones    | Regular        | Alta          |
-| S. Henriquez | Ver estadísticas de visitas o interés      | Ocasional      | Media         |
-| S. Purilla   | Buscar un restaurante cercano              | Frecuente      | Alta          |
-| S. Purilla   | Leer reseñas o ver fotos reales            | Frecuente      | Alta          |
-| S. Purilla   | Compartir experiencias o recomendaciones   | Ocasional      | Media         |
+Segmento Objetivo 1
+
+<img src="assets/img/USMT1.jpg" alt="USTM1" style="width:800px; height:auto;">
+
+Segmento Objetivo 2
+
+<img src="assets/img/USMT2.jpg" alt="USTM2" style="width:800px; height:auto;">
 
 ### 2.3.3. User Journey Mapping
 
-#### Sebastián Henríquez
+Segmento Objetivo 1
 
-| **Etapa**              | **Objetivo**                 | **Hace**                                                 | **Piensa**                                              | **Siente**                    | **Punto de Dolor**                                         |
-|------------------------|------------------------------|----------------------------------------------------------|---------------------------------------------------------|-------------------------------|------------------------------------------------------------|
-| **Descubrimiento**     | Aumentar visibilidad         | Pregunta a otros, navega por redes, busca apps           | “¿Cómo logro que más personas conozcan mi restaurante?” | Curioso, confundido           | No tiene herramientas digitales claras para comenzar       |
-| **Registro**           | Crear presencia online       | Intenta subir su restaurante a Google o apps de delivery | “¿Estaré haciéndolo bien?”                              | Inseguro, desorientado        | Interfaces poco claras o procesos largos                   |
-| **Publicación activa** | Esperar que lleguen clientes | Comparte links, sube fotos                               | “¿La gente lo está viendo? ¿Funciona esto?”             | Ansioso, esperanzado          | No recibe retroalimentación visible sobre impacto          |
-| **Interacción**        | Obtener reseñas              | Atiende bien, pide feedback                              | “¿Volverán? ¿Les gustó?”                                | Orgulloso, pero con dudas     | No todos dejan reseña, no hay seguimiento                  |
-| **Fidelización**       | Mantener clientes activos    | Hace promociones por redes, entrega cupones              | “No puedo hacer todo solo”                              | Frustrado, limitado de tiempo | Falta de herramientas para mantener relaciones sostenibles |
+#### Rodrigo Duran
 
-#### Sebastián Purilla
+<img src="assets/img/Segmento journey map Rodrigo.png" alt="UJM Rodrigo" style="width:1000px; height:auto;">
 
-| **Etapa**          | **Objetivo**                         | **Hace**                                         | **Piensa**                                | **Siente**                              | **Punto de Dolor**                                         |
-|--------------------|--------------------------------------|--------------------------------------------------|-------------------------------------------|-----------------------------------------|------------------------------------------------------------|
-| **Descubrimiento** | Conocer nuevos restaurantes cerca    | Revisa Google, TikTok, recomendaciones de amigos | “¿Dónde hay algo distinto y bueno cerca?” | Antojado, curioso                       | Solo encuentra opciones populares o muy visibles           |
-| **Evaluación**     | Decidir cuál probar                  | Compara reseñas, fotos, precios                  | “¿Será buena elección?”                   | Cauteloso, indeciso                     | Falta de info real de negocios pequeños                    |
-| **Decisión**       | Escoger el restaurante               | Guarda en Maps, lo comenta con amigos            | “Espero no equivocarme”                   | Emocionado                              | Puede perder mucho tiempo comparando                       |
-| **Visita**         | Comer y disfrutar la experiencia     | Va al local, prueba la comida                    | “Qué suerte si me gusta”                  | Contento si acierta, decepcionado si no | Descubre tarde lugares interesantes                        |
-| **Recomendación**  | Compartir su experiencia si le gustó | Publica en redes si le impresionó                | “Esto debería conocerlo más gente”        | Orgulloso de su hallazgo                | No siempre tiene forma rápida de recomendar de manera útil |
+Segmento Objetivo 2
+
+#### Katty Perez
+
+![Segmento_journey_map](./assets/img/Segmento_journey_map.png)
 
 ### 2.3.4. Empathy Mapping
 
-| **DICE**                                           | **PIENSA**                              | **HACE**                                             | **SIENTE**                                                                                               |
-|----------------------------------------------------|-----------------------------------------|------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| "Quiero que más personas conozcan mi restaurante." | "Las apps de delivery me cobran mucho." | "Mi comida es buena, pero la gente no me encuentra." | Publica fotos en redes sociales. Pega volantes en la zona. Intenta registrarse en plataformas digitales. | Orgulloso de su comida y esfuerzo. Frustrado por la falta de visibilidad. Inseguro con la tecnología. |
+Segmento Objetivo 1
+
+<img src="assets/img/Persona Empaty Mapping Dueño Restaurante.png" alt="EM Rodrigo" style="width:1000px; height:auto;">
+
+Segmento Objetivo 2
+
+<img src="assets/img/Persona Empaty Mapping - Consumidor.png" alt="EM Katty" style="width:1000px; height:auto;">
 
 ### 2.3.5. As-is Scenario Mapping
 
-| **Fases**    | **Actividad**                                                                        | **Emoción**                                           | **Dolor**                                                                        | **Información**                                                                   | **Acciones**                                                                                    |
-|--------------|--------------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| **Doing**    | Sebastián publica su restaurante en redes sociales y se registra en apps de delivery | Esperanzado por atraer nuevos clientes                | Abrumado por la dificultad técnica y las comisiones altas                        | Encuentra información dispersa y poco clara en internet                           | Pide ayuda a familiares o conocidos para registrar su restaurante o mejorar su presencia online |
-| **Thinking** | Sebastián intenta mejorar la visibilidad de su restaurante                           | Motivado por hacer crecer su negocio                  | Frustrado al no ver resultados visibles o por la competencia con grandes cadenas | Observa el comportamiento de los clientes y busca guías de posicionamiento online | Prueba con promociones, mejora sus fotos o responde reseñas sin lograr mucho impacto            |
-| **Feeling**  | Sebastián ve que sus esfuerzos digitales no generan suficientes visitas              | Orgulloso de la calidad de su comida, pero desanimado | Se siente invisible frente a los negocios más grandes o con más recursos         | Recibe pocas interacciones en redes y comentarios esporádicos                     | Mantiene la calidad en su cocina mientras espera que el boca a boca lo ayude a crecer           |
+Segmento Objetivo 1
+
+ <img src="assets/img/Mapa de escenario1.jpg" alt="ME_1" style="width:1000px; height:auto;">
+
+Segmento Objetivo 2
+
+ <img src="assets/img/Mapa_de escenario_v2.jpg" alt="ME_V2" style="width:1000px; height:auto;">
+
+
 
 ## 2.4. Ubiquitous Language
 
@@ -565,6 +662,8 @@ Hemos identificado tres principales competidores que ofrecen servicios similares
 |                            | Quiere editar o eliminar publicaciones previas       | Editar/Eliminar publicaciones     | US-02, US-05, US-06 |
 |                            | Desea recibir pedidos fácilmente desde la app        | Recibir pedidos                   | US-08               |
 |                            | Quiere recibir pagos en línea                        | Procesar pagos                    | US-09               |
+
+![Impact_map_segmento2](./assets/img/Impact_map_segmento2.png)  
 
 # 3.4 Product Backlog
 
