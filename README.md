@@ -655,13 +655,13 @@ Segmento Objetivo 2
 
 # 3.3 Impact Mapping
 
-| **Actor (Quién)**          | **Impacto esperado (Cómo)**                          | **Funcionalidad requerida (Qué)** | **User Story ID**   |
-|----------------------------|------------------------------------------------------|-----------------------------------|---------------------|
-| **Cocinero / Restaurante** | Quiere registrarse en la plataforma fácilmente       | Crear cuenta                      | US-13               |
-|                            | Quiere publicar la comida del día sin complicaciones | Publicar comida del día           | US-01               |
-|                            | Quiere editar o eliminar publicaciones previas       | Editar/Eliminar publicaciones     | US-02, US-05, US-06 |
-|                            | Desea recibir pedidos fácilmente desde la app        | Recibir pedidos                   | US-08               |
-|                            | Quiere recibir pagos en línea                        | Procesar pagos                    | US-09               |
+## Segmento 1:
+
+<img src="assets/img/Impact map Segmento1.png" alt="IMP1" style="width:1000px; height:auto;">
+
+## Segmento 2:
+
+![Impact_map_segmento2](./assets/img/Impact_map_segmento2.png)  
 
 ![Impact_map_segmento2](./assets/img/Impact_map_segmento2.png)  
 
