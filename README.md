@@ -1021,6 +1021,8 @@ Para desplegar nuestra landing page en la plataforma de GitHub, seguimos los sig
 
 - Creamos un nuevo repositorio en GitHub de nuestro proyecto, el cual se utilizará para el desarrollo y deployment.
 
+<img src="assets/img/Evidencia Repository.png" alt="ER4" style="width:700px; height:auto;">
+
 2. Inicialización del Repositorio:
 
 - Se utilza el comando "*git init*" para inicializar el repositorio.
@@ -1028,6 +1030,9 @@ Para desplegar nuestra landing page en la plataforma de GitHub, seguimos los sig
 3. Subida de Archivos al Repositorio Remoto:
 
 - Añadimos los archivos de nuestra landing page al repositorio local.
+
+<img src="assets/img/Evidencia Repository2.png" alt="ER4" style="width:700px; height:auto;">
+  
 - Subimos los archivos al repositorio de GitHub con el comando "*git push -u origin master*" o sino utilizando Github
   Desktop.
 
@@ -1035,7 +1040,11 @@ Para desplegar nuestra landing page en la plataforma de GitHub, seguimos los sig
 
 - Accedemos a la sección de configuración del repositorio en GitHub y entramos a la sección de Github Pages.
 
+<img src="assets/img/Evidencia Repository4.png" alt="ER4" style="width:700px; height:auto;">
+
 - Seleccionamos la rama de GitHub Pages (main) como fuente para el deployment de nuestra Landing Page
+
+<img src="assets/img/Evidencia Repository5.png" alt="ER5" style="width:700px; height:auto;">
 
 5. Despliegue:
 
@@ -1046,6 +1055,8 @@ De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y
 que tenga el enlace.
 
 Enlace de la Landing Page: https://open-source-grupo3.github.io/LandingPage/
+
+<img src="assets/img/Evidencia Repository6.png" alt="ER6" style="width:700px; height:auto;">
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
