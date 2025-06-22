@@ -1021,7 +1021,7 @@ Para desplegar nuestra landing page en la plataforma de GitHub, seguimos los sig
 
 - Creamos un nuevo repositorio en GitHub de nuestro proyecto, el cual se utilizará para el desarrollo y deployment.
 
-<img src="assets/img/Evidencia Repository.png" alt="ER4" style="width:700px; height:auto;">
+<img src="assets/img/Evidencia Repository.png" alt="ER" style="width:700px; height:auto;">
 
 2. Inicialización del Repositorio:
 
@@ -1031,7 +1031,7 @@ Para desplegar nuestra landing page en la plataforma de GitHub, seguimos los sig
 
 - Añadimos los archivos de nuestra landing page al repositorio local.
 
-<img src="assets/img/Evidencia Repository2.png" alt="ER4" style="width:700px; height:auto;">
+<img src="assets/img/Evidencia Repository2.png" alt="ER2" style="width:700px; height:auto;">
   
 - Subimos los archivos al repositorio de GitHub con el comando "*git push -u origin master*" o sino utilizando Github
   Desktop.
