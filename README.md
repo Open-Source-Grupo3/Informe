@@ -1148,6 +1148,10 @@ En este sprint, no se desarrollaron Web Services, por lo que no hubo ningún Uni
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
+En este sprint hemos logrado desplegar el diseño de la landing page, aquí podemos encontrar las secciones en donde el usuario va a conocer nuestro producto y con el que se va a familiarizar con los costos de nuestros servicios e informacion del equipo
+
+<img src="assets/img/LandingPage.jpg" alt="LP" style="width:700px; height:auto;">
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Esta sección documenta los servicios desarrollados para gestionar la vinculación entre restaurantes locales y usuarios dentro de la plataforma PlatoX. Se describen los endpoints que permiten consultar los perfiles de los negocios gastronómicos, los cuales incluyen información relevante como tipo de comida, ubicación, promociones activas, menús del día y métricas de interacción con los usuarios.
